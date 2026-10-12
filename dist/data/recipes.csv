@@ -1,0 +1,745 @@
+﻿id,recipe,servings,method,oven_temperature_f,oven_bake_time,initial_safe_doneness,ingredients_numbered,ingredient_usage_map,pre_bake_mixture_and_assembly,full_step_by_step_directions,freezing_instructions,packaging,quality_months,thawing,reheating,texture_risk,scientific_quality_strategy,source_url
+FM01,Classic Glazed Beef Meatloaf,6,oven,350,55–65 min,160°F at center (ground beef),"1. 1.5 lb 85–90% lean ground beef
+2. 1 large egg
+3. 3/4 cup plain unseasoned breadcrumbs
+4. 1/3 cup milk
+5. 1 tsp kosher salt
+6. 1 tsp garlic powder
+7. 1 tsp dried parsley
+8. 1/3 cup plain tomato paste
+9. 2 tbsp brown sugar
+10. 1 tbsp apple cider vinegar
+11. 2 tbsp water","1: steps 3,5,7,8,9 — 1.5 lb 85–90% lean ground beef
+2: steps 1 — 1 large egg
+3: steps 2 — 3/4 cup plain unseasoned breadcrumbs
+4: steps 1 — 1/3 cup milk
+5: steps 2 — 1 tsp kosher salt
+6: steps 2 — 1 tsp garlic powder
+7: steps 2 — 1 tsp dried parsley
+8: steps 4,6,8 — 1/3 cup plain tomato paste
+9: steps 4,6 — 2 tbsp brown sugar
+10: steps 4,6 — 1 tbsp apple cider vinegar
+11: steps 4,6 — 2 tbsp water","In a large bowl, beat 1 large egg with 1/3 cup milk until completely blended. Stir 3/4 cup plain breadcrumbs, 1 tsp kosher salt, 1 tsp garlic powder and 1 tsp dried parsley into the egg-milk mixture; leave it 2–3 minutes so crumbs absorb moisture. Add 1.5 lb ground beef to the soaked breadcrumbs. Fold with clean hands or a fork just until evenly combined; overmixing makes the loaf dense. Whisk 1/3 cup plain tomato paste, 2 tbsp brown sugar, 1 tbsp apple cider vinegar and 2 tbsp water in a small cup until smooth. This is the glaze; keep it apart from raw beef. Heat oven to 350°F. Shape meat into a loaf about 9 by 5 inches on a lined rimmed baking pan. Do not pack it into a tight block.","1. [PREPARE] In a large bowl, beat 1 large egg with 1/3 cup milk until completely blended.
+2. [PREPARE] Stir 3/4 cup plain breadcrumbs, 1 tsp kosher salt, 1 tsp garlic powder and 1 tsp dried parsley into the egg-milk mixture; leave it 2–3 minutes so crumbs absorb moisture.
+3. [PREPARE] Add 1.5 lb ground beef to the soaked breadcrumbs. Fold with clean hands or a fork just until evenly combined; overmixing makes the loaf dense.
+4. [PREPARE] Whisk 1/3 cup plain tomato paste, 2 tbsp brown sugar, 1 tbsp apple cider vinegar and 2 tbsp water in a small cup until smooth. This is the glaze; keep it apart from raw beef.
+5. [ASSEMBLE] Heat oven to 350°F. Shape meat into a loaf about 9 by 5 inches on a lined rimmed baking pan. Do not pack it into a tight block.
+6. [COOK] Spread half the clean glaze over the loaf. Bake for 35 minutes at 350°F; then brush on the other half of the glaze, using a clean spoon.
+7. [COOK] Continue baking 20–30 minutes, checking the center with a food thermometer until it reaches 160°F. Rest 10 minutes before slicing into 6 servings.
+8. [FREEZE] Divide slices into shallow dishes, refrigerate promptly, then put each serving with a little cooked glaze into a tight freezer wrap/bag; remove excess air and date it.
+9. [SERVE] Thaw in the fridge overnight. Put portions in a covered oven-safe dish with 1 tbsp water; heat at 325°F for about 15–25 minutes until the center reaches 165°F.",Chill slices rapidly in shallow containers; freeze with 1 tbsp glaze per slice.,"Wrap each 1–2-slice serving tightly in freezer wrap; place in labeled freezer zip bag, push out air.",3,Refrigerate overnight (8–24 hr).,"Covered at 325°F for about 15–25 min from refrigerator-thawed, to 165°F; add 1 tbsp water and glaze.",Dry edges and crumbly meat after freezing.,Moderate fat and glaze protect proteins against dry reheating; freeze in narrow slices.,https://www.budgetbytes.com/classic-homemade-meatloaf/
+FM02,Beef Meatballs in Brown Gravy,5,oven_plus_stovetop,400,16–22 min for meatballs plus 6–8 min for gravy,160°F meatballs,"1. 1.25 lb ground beef
+2. 1 egg
+3. 1/2 cup plain breadcrumbs
+4. 1/4 cup milk
+5. 3/4 tsp salt
+6. 1/2 tsp garlic powder
+7. 2 tbsp butter
+8. 2 tbsp flour
+9. 2 cups water
+10. 2 tsp beef base verified free of onion and pepper ingredients","1: steps 2,4,7,8,9 — 1.25 lb ground beef
+2: steps 2 — 1 egg
+3: steps 1 — 1/2 cup plain breadcrumbs
+4: steps 1 — 1/4 cup milk
+5: steps 2 — 3/4 tsp salt
+6: steps 2 — 1/2 tsp garlic powder
+7: steps 5,7,8,9 — 2 tbsp butter
+8: steps 5 — 2 tbsp flour
+9: steps 3,6 — 2 cups water
+10: steps 3,6 — 2 tsp beef base verified free of onion and pepper ingredients","Stir 1/2 cup plain breadcrumbs into 1/4 cup milk in a bowl; let stand 2 minutes. Add 1.25 lb ground beef, 1 egg, 3/4 tsp salt and 1/2 tsp garlic powder. Mix gently just until the seasonings and soaked crumbs are distributed; form 20 equal meatballs. Dissolve 2 tsp verified onion-free, pepper-free beef base completely in 2 cups water. Keep broth near the stove for the gravy.","1. [PREPARE] Stir 1/2 cup plain breadcrumbs into 1/4 cup milk in a bowl; let stand 2 minutes.
+2. [PREPARE] Add 1.25 lb ground beef, 1 egg, 3/4 tsp salt and 1/2 tsp garlic powder. Mix gently just until the seasonings and soaked crumbs are distributed; form 20 equal meatballs.
+3. [PREPARE] Dissolve 2 tsp verified onion-free, pepper-free beef base completely in 2 cups water. Keep broth near the stove for the gravy.
+4. [COOK] Preheat oven to 400°F. Arrange meatballs 1 inch apart on a parchment-lined rimmed pan. Bake 16–22 minutes until every meatball checked reaches 160°F at its center.
+5. [COOK] While meatballs bake, melt 2 tbsp butter over medium heat in a saucepan. Sprinkle in 2 tbsp flour, whisk constantly for 60–90 seconds to form a smooth paste.
+6. [COOK] Slowly whisk the prepared 2 cups broth into the butter-flour paste, adding a few tablespoons at first to prevent lumps. Simmer 4–6 minutes, whisking, until gravy coats the back of a spoon.
+7. [COOK] Place cooked meatballs in the hot gravy and simmer together 2 minutes; if sauce gets too thick, stir in a spoonful of water.
+8. [FREEZE] Divide meatballs fully coated with gravy into shallow containers and chill promptly. Freeze cooled portions airtight with minimal air and a little expansion room.
+9. [SERVE] Thaw overnight in refrigerator. Warm covered in a saucepan on medium-low about 10–15 minutes, stirring gently, until meatballs and gravy reach 165°F.",Rapidly chill meatballs with gravy in shallow 3–5 serving portions.,"Airtight freezer-safe rigid boxes, gravy covering meatballs; leave about 1/2 inch expansion space.",3,Fridge overnight.,"Covered saucepan on medium-low 10–15 min after thawing, stir gently to 165°F; thin with 1–2 tbsp water if necessary.",Gravy can thicken or weep; uncovered meatballs dry out.,Gravy encases meatballs and prevents moisture loss.,https://www.budgetbytes.com/homemade-meatballs/
+FM03,Mild Salisbury Steak With Smooth Gravy,4,stovetop,,not used; stovetop 16–20 min,160°F patties,"1. 1.25 lb ground beef
+2. 1/3 cup breadcrumbs
+3. 1 large egg
+4. 1 tbsp plain tomato paste
+5. 1 tsp salt
+6. 1 tsp garlic powder
+7. 1 tbsp neutral oil
+8. 2 tbsp butter
+9. 2 tbsp flour
+10. 2 cups water
+11. 2 tsp onion-free, pepper-free beef base","1: steps 1,3,6,7,8 — 1.25 lb ground beef
+2: steps 1 — 1/3 cup breadcrumbs
+3: steps 1 — 1 large egg
+4: steps 1 — 1 tbsp plain tomato paste
+5: steps 1 — 1 tsp salt
+6: steps 1 — 1 tsp garlic powder
+7: steps 3 — 1 tbsp neutral oil
+8: steps 4 — 2 tbsp butter
+9: steps 4 — 2 tbsp flour
+10: steps 2,5,7,8 — 2 cups water
+11: steps 2,5 — 2 tsp onion-free, pepper-free beef base","In a bowl combine 1.25 lb ground beef, 1/3 cup breadcrumbs, 1 egg, 1 tbsp tomato paste, 1 tsp salt and 1 tsp garlic powder; mix lightly, then form four 3/4-inch-thick oval patties. Stir 2 tsp onion-free and pepper-free beef base into 2 cups water to dissolve; set the broth beside the skillet.","1. [PREPARE] In a bowl combine 1.25 lb ground beef, 1/3 cup breadcrumbs, 1 egg, 1 tbsp tomato paste, 1 tsp salt and 1 tsp garlic powder; mix lightly, then form four 3/4-inch-thick oval patties.
+2. [PREPARE] Stir 2 tsp onion-free and pepper-free beef base into 2 cups water to dissolve; set the broth beside the skillet.
+3. [COOK] Heat 1 tbsp neutral oil in a wide skillet over medium-high. Brown patties 3–4 minutes per side, working in batches if needed; transfer to a plate (they will finish cooking in gravy).
+4. [COOK] Reduce heat to medium. Melt 2 tbsp butter in the same skillet; whisk in 2 tbsp flour and stir for 1 minute to cook out raw flour taste.
+5. [COOK] Pour broth in slowly while whisking, scraping browned bits from the pan. Simmer 2–3 minutes until lightly thickened.
+6. [COOK] Return patties and any juices to gravy. Cover and gently simmer 8–12 minutes, turning once, until patty centers reach 160°F.
+7. [FREEZE] Place patties in shallow freezer-safe boxes and cover with gravy; cool promptly and freeze airtight with headspace.
+8. [SERVE] Thaw in fridge overnight. Heat covered in a skillet on medium-low 10–15 minutes, turning patties gently, until sauce and patties reach 165°F.",Chill patties immersed in thickened gravy.,"Flat single-layer freezer boxes with tight lids, minimal air and a little expansion space.",3,Fridge overnight.,"Covered skillet on low-medium 10–15 min to 165°F, add splash of water as needed.",Thin patties dry at edges when uncovered.,Freeze fully submerged in gravy; add starches freshly.,https://www.spendwithpennies.com/mushroom-salisbury-steak/
+FM04,Tender Brown-Sugar Pulled Pork,6,slow_cooker,,not used; LOW 8–10 hr,Whole pork minimum 145°F plus 3 min rest; cook much longer to shred easily,"1. 3 lb boneless pork shoulder
+2. 3/4 cup water
+3. 2 tbsp brown sugar
+4. 1 tbsp apple cider vinegar
+5. 1 tsp salt
+6. 1 tsp garlic powder
+7. 1/2 tsp dried thyme","1: steps 2,3,4,5,6,7 — 3 lb boneless pork shoulder
+2: steps 1,3,5,6,7 — 3/4 cup water
+3: steps 1,3 — 2 tbsp brown sugar
+4: steps 1,3 — 1 tbsp apple cider vinegar
+5: steps 1,3 — 1 tsp salt
+6: steps 1,3 — 1 tsp garlic powder
+7: steps 1,3 — 1/2 tsp dried thyme","Whisk 3/4 cup water, 2 tbsp brown sugar, 1 tbsp apple cider vinegar, 1 tsp salt, 1 tsp garlic powder and 1/2 tsp thyme until sugar dissolves. Trim only large hard pieces of surface fat from 3 lb pork shoulder, leaving some fat for tenderness. Put pork in a 5–6 qt slow cooker.","1. [PREPARE] Whisk 3/4 cup water, 2 tbsp brown sugar, 1 tbsp apple cider vinegar, 1 tsp salt, 1 tsp garlic powder and 1/2 tsp thyme until sugar dissolves.
+2. [PREPARE] Trim only large hard pieces of surface fat from 3 lb pork shoulder, leaving some fat for tenderness. Put pork in a 5–6 qt slow cooker.
+3. [COOK] Pour the whisked liquid around and over the pork. Cover and cook on LOW 8–10 hours without repeatedly opening the lid, until the meat pulls apart easily with forks (commonly about 195–205°F for shredding).
+4. [COOK] Transfer pork to a cutting board; shred using two clean forks. Discard large chunks of fat and any bone if present.
+5. [COOK] Skim excess fat from cooking liquid. Fold about 1–1.5 cups of its juices back into shredded pork so every portion is moist without swimming in liquid.
+6. [FREEZE] Split into shallow meal portions and refrigerate promptly. When cold, seal flat in freezer-weight bags with enough juices to coat fibers; press out air and label.
+7. [SERVE] Thaw in refrigerator. Reheat covered in a saucepan, stirring occasionally, about 8–12 minutes or until all the pork is 165°F. Serve with plain buns or fresh sides.","Divide hot pork into shallow containers; refrigerate promptly until cold, then portion with its cooking juices.","Freezer-safe bags with pork and juices, flattened to <1 inch where possible, air expelled; freeze flat.",3,"Fridge 12–24 hr; if thawing in cold water, cook/reheat immediately.",Covered saucepan 8–12 min on medium-low from thawed to 165°F; stir in juices.,Exposed fibers dry and oxidize.,Juices coat shredded fibers; flattened packs freeze faster.,https://www.budgetbytes.com/chili-rubbed-pulled-pork/
+FM05,Sweet Tomato BBQ Shredded Chicken,6,oven,350,40–50 min total,165°F chicken,"1. 2 lb boneless skinless chicken thighs
+2. 6 oz tomato paste
+3. 1/3 cup water
+4. 3 tbsp brown sugar
+5. 2 tbsp apple cider vinegar
+6. 1 tsp salt
+7. 1 tsp garlic powder
+8. 1 tbsp molasses","1: steps 2,3,4,5,6,7 — 2 lb boneless skinless chicken thighs
+2: steps 1,3,5,6,7 — 6 oz tomato paste
+3: steps 1 — 1/3 cup water
+4: steps 1 — 3 tbsp brown sugar
+5: steps 1 — 2 tbsp apple cider vinegar
+6: steps 1 — 1 tsp salt
+7: steps 1 — 1 tsp garlic powder
+8: steps 1 — 1 tbsp molasses","Whisk 6 oz tomato paste, 1/3 cup water, 3 tbsp brown sugar, 2 tbsp vinegar, 1 tsp salt, 1 tsp garlic powder and 1 tbsp molasses until smooth. Lay 2 lb boneless skinless chicken thighs in a single layer in a 9x13-inch oven-safe baking dish; use a dish with a fitted lid or foil. Pour sauce over the raw chicken and turn with tongs so all pieces are coated. Cover baking dish tightly; keep refrigerated if not baking immediately.","1. [PREPARE] Whisk 6 oz tomato paste, 1/3 cup water, 3 tbsp brown sugar, 2 tbsp vinegar, 1 tsp salt, 1 tsp garlic powder and 1 tbsp molasses until smooth.
+2. [PREPARE] Lay 2 lb boneless skinless chicken thighs in a single layer in a 9x13-inch oven-safe baking dish; use a dish with a fitted lid or foil.
+3. [ASSEMBLE] Pour sauce over the raw chicken and turn with tongs so all pieces are coated. Cover baking dish tightly; keep refrigerated if not baking immediately.
+4. [COOK] Preheat oven to 350°F. Bake covered for 35–45 minutes, checking the thickest thigh until at least 165°F.
+5. [COOK] Shred cooked chicken with two forks in the baking dish. Mix thoroughly into sauce, then bake UNCOVERED another 5 minutes to evaporate excess water.
+6. [FREEZE] Divide shredded chicken and thick sauce into shallow portions; chill promptly. Press out air in flat freezer bags or fill small tight containers.
+7. [SERVE] Thaw overnight in fridge; reheat in a covered skillet over medium-low 8–12 minutes, stirring, until all portions reach 165°F. Keep buns separate.",Chill promptly; freeze shredded chicken fully coated in thick sauce.,Freezer-weight bags in 2–3 cup portions; press out air and freeze flat.,3,Fridge overnight.,Covered saucepan 8–12 min on medium-low to 165°F; add 1 tbsp water only if needed.,Thin sauce may form ice crystals and bread can become soggy.,Reduce sauce before packing; freeze filling and bread separately.,https://thefamilyfreezer.com/2016/05/08/19-deliciously-healthy-chicken-crockpot-freezer-meals/
+FM06,Oven-Baked Mild BBQ Chicken Thighs,5,oven,400,23–30 min,165°F chicken,"1. 2 lb boneless skinless chicken thighs
+2. 1 tbsp oil
+3. 3/4 tsp salt
+4. 1/2 tsp garlic powder
+5. 1/3 cup tomato paste
+6. 2 tbsp honey
+7. 1 tbsp apple cider vinegar
+8. 3 tbsp water","1: steps 1,4,5,6,7,8 — 2 lb boneless skinless chicken thighs
+2: steps 2 — 1 tbsp oil
+3: steps 2 — 3/4 tsp salt
+4: steps 2 — 1/2 tsp garlic powder
+5: steps 3,4,6 — 1/3 cup tomato paste
+6: steps 3 — 2 tbsp honey
+7: steps 3 — 1 tbsp apple cider vinegar
+8: steps 3 — 3 tbsp water","Pat 2 lb boneless skinless chicken thighs dry with paper towels (do not rinse raw chicken). Mix 1 tbsp oil, 3/4 tsp salt and 1/2 tsp garlic powder. Toss chicken thighs in this mixture with clean tongs until lightly coated. Whisk 1/3 cup tomato paste, 2 tbsp honey, 1 tbsp apple cider vinegar and 3 tbsp water in a clean bowl to make a smooth glaze. Divide glaze into two clean portions BEFORE either touches raw chicken. Preheat oven to 400°F and line a rimmed pan. Arrange thighs in one layer with gaps, and brush with the first half of glaze.","1. [PREPARE] Pat 2 lb boneless skinless chicken thighs dry with paper towels (do not rinse raw chicken).
+2. [PREPARE] Mix 1 tbsp oil, 3/4 tsp salt and 1/2 tsp garlic powder. Toss chicken thighs in this mixture with clean tongs until lightly coated.
+3. [PREPARE] Whisk 1/3 cup tomato paste, 2 tbsp honey, 1 tbsp apple cider vinegar and 3 tbsp water in a clean bowl to make a smooth glaze. Divide glaze into two clean portions BEFORE either touches raw chicken.
+4. [ASSEMBLE] Preheat oven to 400°F and line a rimmed pan. Arrange thighs in one layer with gaps, and brush with the first half of glaze.
+5. [COOK] Roast chicken for 15 minutes at 400°F.
+6. [COOK] Brush on the reserved clean glaze; bake another 8–15 minutes until thickest thigh reaches 165°F. If browning rapidly, cover loosely with foil.
+7. [FREEZE] Divide baked thighs with any cooked pan juices into shallow meal portions, chill promptly and pack airtight.
+8. [SERVE] After refrigerator thaw, place in covered dish with juices, bake at 325°F about 15–20 minutes to 165°F; add a splash of water only if needed.",Cool rapidly; portion with a spoonful of cooking juices or extra cooked glaze.,"Snug freezer boxes or vacuum freezer bags for cooled chicken, with thin sauce layer.",3,Fridge overnight.,Covered 325°F oven 15–20 min to 165°F; spoon juices over chicken.,Overcooking on reheating leads to dry chicken.,Thighs retain moisture better than very lean breasts.,https://www.spendwithpennies.com/baked-chicken-thighs/
+FM07,Honey-Garlic Chicken Freezer Kit,5,oven,400,25–35 min after refrigerator thaw,165°F chicken; fully boil any sauce from raw marinade,"1. 2 lb boneless skinless chicken thighs
+2. 1/3 cup honey
+3. 1/4 cup reduced-sodium soy sauce
+4. 3 garlic cloves finely minced
+5. 2 tbsp apple cider vinegar
+6. 1 tbsp neutral oil","1: steps 2,3,4,5,6,8 — 2 lb boneless skinless chicken thighs
+2: steps 1,2,3,5,7 — 1/3 cup honey
+3: steps 1 — 1/4 cup reduced-sodium soy sauce
+4: steps 1 — 3 garlic cloves finely minced
+5: steps 1 — 2 tbsp apple cider vinegar
+6: steps 1 — 1 tbsp neutral oil","In a bowl whisk 1/4 cup reduced-sodium soy sauce, 3 finely minced garlic cloves, 2 tbsp apple cider vinegar, 1 tbsp neutral oil and 1/3 cup honey until honey dissolves. Put 2 lb raw boneless chicken thighs into a new gallon freezer-weight bag; pour all marinade in. Gently massage bag to coat chicken.","1. [PREPARE] In a bowl whisk 1/4 cup reduced-sodium soy sauce, 3 finely minced garlic cloves, 2 tbsp apple cider vinegar, 1 tbsp neutral oil and 1/3 cup honey until honey dissolves.
+2. [ASSEMBLE] Put 2 lb raw boneless chicken thighs into a new gallon freezer-weight bag; pour all marinade in. Gently massage bag to coat chicken.
+3. [FREEZE] Press air out of bag, seal and freeze raw chicken in marinade flat on a tray immediately. Keep sealed until refrigerator thaw on serving day.
+4. [SERVE] Move sealed raw chicken kit to a rimmed tray in the refrigerator for about 18–24 hours or until completely thawed. Do not thaw on counter.
+5. [COOK] When ready to cook, preheat oven to 400°F. Pour chicken and ALL raw marinade into a 9x13-inch dish; turn chicken into one layer. Wash hands and utensils exposed to raw chicken.
+6. [COOK] Bake 25–35 minutes until thickest thigh reaches 165°F. Check chicken temperature away from bone (thighs are boneless).
+7. [COOK] Optional glaze: pour pan juices into a saucepan, bring to a full rolling boil, then simmer 2–5 minutes until slightly reduced. Spoon over the cooked chicken.
+8. [SERVE] Eat freshly cooked chicken; refrigerate leftovers promptly and reheat leftovers to 165°F. Serve alongside separately cooked rice or vegetables.",Seal and freeze immediately after assembling raw chicken and sauce. Do not bring raw kit to room temperature.,"Freezer-weight gallon zip bag; press out air, double-bag if needed; freeze flat.",3,Refrigerator 18–24 hr in a tray; cook soon after thawing.,"This is raw: bake after thawing per instructions, do not treat as a ready-to-eat reheat meal.",Very sweet sauce can burn; raw chicken may release water.,"Covered marinade reduces oxygen exposure; bake in one layer, then reduce juices for better texture.",https://thefamilyfreezer.com/2016/01/10/pre-baby-freezer-meals-part-three/
+FM08,Mild Teriyaki Chicken Freezer Kit,5,oven_plus_stovetop,400,"25–35 min oven, plus 2–4 min sauce",165°F chicken; boil used raw marinade juices,"1. 2 lb boneless skinless chicken thighs
+2. 1/3 cup reduced-sodium soy sauce
+3. 3 tbsp brown sugar
+4. 2 tbsp honey
+5. 1 tbsp rice vinegar
+6. 1 tsp ground ginger
+7. 2 tsp minced garlic
+8. 1 tbsp cornstarch (add on cooking day)
+9. 2 tbsp cold water (add on cooking day)","1: steps 2,3,4,5,8 — 2 lb boneless skinless chicken thighs
+2: steps 1,2,3,5,7 — 1/3 cup reduced-sodium soy sauce
+3: steps 1 — 3 tbsp brown sugar
+4: steps 1 — 2 tbsp honey
+5: steps 1 — 1 tbsp rice vinegar
+6: steps 1 — 1 tsp ground ginger
+7: steps 1 — 2 tsp minced garlic
+8: steps 6,7 — 1 tbsp cornstarch (add on cooking day)
+9: steps 6,7 — 2 tbsp cold water (add on cooking day)","Whisk 1/3 cup reduced-sodium soy sauce, 3 tbsp brown sugar, 2 tbsp honey, 1 tbsp rice vinegar, 1 tsp ground ginger and 2 tsp minced garlic until sugar dissolves. Place 2 lb raw chicken thighs in a gallon freezer bag. Pour in marinade and turn bag to coat every thigh. While chicken cooks, stir 1 tbsp cornstarch into 2 tbsp COLD water in a cup until no dry clumps remain; do not put these ingredients into the raw freezer bag.","1. [PREPARE] Whisk 1/3 cup reduced-sodium soy sauce, 3 tbsp brown sugar, 2 tbsp honey, 1 tbsp rice vinegar, 1 tsp ground ginger and 2 tsp minced garlic until sugar dissolves.
+2. [ASSEMBLE] Place 2 lb raw chicken thighs in a gallon freezer bag. Pour in marinade and turn bag to coat every thigh.
+3. [FREEZE] Press out air, seal, mark bag RAW and freeze the chicken-and-marinade kit flat immediately.
+4. [SERVE] Thaw the sealed RAW kit in refrigerator on a tray for 18–24 hours or until completely thawed; preheat oven to 400°F when ready.
+5. [COOK] Spread thawed chicken and marinade in one layer in a 9x13-inch dish. Bake 25–35 minutes or until the thickest thigh is 165°F.
+6. [PREPARE] While chicken cooks, stir 1 tbsp cornstarch into 2 tbsp COLD water in a cup until no dry clumps remain; do not put these ingredients into the raw freezer bag.
+7. [COOK] Pour used marinade and chicken pan juices into a small saucepan; bring to a rolling boil. While whisking, pour in cornstarch slurry and simmer 1–2 minutes until thickened. Brush glaze over cooked chicken.
+8. [SERVE] Serve the fully cooked chicken and thickened sauce with freshly cooked rice. Refrigerate leftovers promptly, reheating later to 165°F.",Freeze uncooked sauced meat right after assembly.,Freezer-weight bag flat with air pressed out; avoid overfilling.,3,Thaw in refrigerator 18–24 hr.,Cook raw kit in 400°F oven as described; never simply warm it.,Sugar scorches and watery thaw drippings dilute sauce.,Thicken heated sauce after cooking rather than freezing a cornstarch gel.,https://thefamilyfreezer.com/2018/03/15/10-freezer-stir-fry-packs-for-the-instant-pot-or-crockpot/
+FM09,Golden Oven Chicken Tenders,4,oven,425,18–22 min,165°F chicken,"1. 1.5 lb chicken tenderloins
+2. 1/2 cup plain Greek yogurt
+3. 1 cup panko breadcrumbs
+4. 2 tbsp oil
+5. 3/4 tsp salt
+6. 1/2 tsp garlic powder","1: steps 3,4,5,6,7 — 1.5 lb chicken tenderloins
+2: steps 1,3 — 1/2 cup plain Greek yogurt
+3: steps 2,4 — 1 cup panko breadcrumbs
+4: steps 2 — 2 tbsp oil
+5: steps 1,2 — 3/4 tsp salt
+6: steps 1 — 1/2 tsp garlic powder","Whisk 1/2 cup plain Greek yogurt with 1/2 tsp of the 3/4 tsp salt and all 1/2 tsp garlic powder in a bowl. In a second shallow bowl, toss 1 cup plain panko crumbs, 2 tbsp oil and the remaining 1/4 tsp salt; rub with fingertips so crumbs are lightly coated in oil. Pat 1.5 lb chicken tenderloins dry. Coat each in a THIN layer of seasoned yogurt, letting excess drip off. Press each yogurt-coated tender into oiled crumbs on all sides, then lay in a single layer on a rack over a rimmed sheet pan. Avoid pressing chicken pieces together.","1. [PREPARE] Whisk 1/2 cup plain Greek yogurt with 1/2 tsp of the 3/4 tsp salt and all 1/2 tsp garlic powder in a bowl.
+2. [PREPARE] In a second shallow bowl, toss 1 cup plain panko crumbs, 2 tbsp oil and the remaining 1/4 tsp salt; rub with fingertips so crumbs are lightly coated in oil.
+3. [PREPARE] Pat 1.5 lb chicken tenderloins dry. Coat each in a THIN layer of seasoned yogurt, letting excess drip off.
+4. [ASSEMBLE] Press each yogurt-coated tender into oiled crumbs on all sides, then lay in a single layer on a rack over a rimmed sheet pan. Avoid pressing chicken pieces together.
+5. [COOK] Heat oven to 425°F. Bake tenders for 12 minutes, flip using clean tongs, then bake 6–10 more minutes to a center temperature of 165°F and light golden breading.
+6. [FREEZE] Cool cooked tenders briefly on a rack; refrigerate in shallow pan promptly. After chilled, tray-freeze individually until firm then seal in a freezer bag with air removed.
+7. [SERVE] Heat DIRECTLY FROM FROZEN on a wire rack in a 400°F oven for roughly 12–18 minutes until interiors reach 165°F. Do not microwave if crispness matters.","Chill on rack so steam escapes, then tray-freeze in a single layer until firm.","Transfer frozen tenders to labeled freezer zip bag, push out air, add parchment between layers.",2,Reheat directly from frozen; thawing makes coating wetter.,400°F oven 12–18 min from frozen on rack; reach 165°F; avoid microwave if crispness matters.,Breading absorbs thaw moisture and loses crunch.,Tray-freezing and dry oven reheating limit sogginess.,https://www.budgetbytes.com/chicken-tenders/
+FM10,Homemade Baked Chicken Nuggets,5,oven,400,16–20 min,165°F chicken,"1. 1.5 lb boneless skinless chicken breast cut into 1-inch nuggets
+2. 1/2 cup plain Greek yogurt
+3. 1 cup panko crumbs
+4. 2 tbsp melted butter
+5. 3/4 tsp salt
+6. 1/2 tsp garlic powder","1: steps 1,4,5,6,7 — 1.5 lb boneless skinless chicken breast cut into 1-inch nuggets
+2: steps 2,4 — 1/2 cup plain Greek yogurt
+3: steps 3,4 — 1 cup panko crumbs
+4: steps 3 — 2 tbsp melted butter
+5: steps 2 — 3/4 tsp salt
+6: steps 2 — 1/2 tsp garlic powder","Cut 1.5 lb boneless chicken breast into even 1-inch nuggets using a separate raw-poultry board. Pat pieces dry; wash utensils and board afterward. Mix 1/2 cup plain Greek yogurt with 3/4 tsp salt and 1/2 tsp garlic powder until smooth. Melt 2 tbsp butter; drizzle over 1 cup plain panko crumbs in a second bowl and toss until crumbs are lightly buttered. Coat nuggets thinly in seasoned yogurt, then press into buttered panko. Arrange a single layer with space on parchment-lined rimmed pan.","1. [PREPARE] Cut 1.5 lb boneless chicken breast into even 1-inch nuggets using a separate raw-poultry board. Pat pieces dry; wash utensils and board afterward.
+2. [PREPARE] Mix 1/2 cup plain Greek yogurt with 3/4 tsp salt and 1/2 tsp garlic powder until smooth.
+3. [PREPARE] Melt 2 tbsp butter; drizzle over 1 cup plain panko crumbs in a second bowl and toss until crumbs are lightly buttered.
+4. [ASSEMBLE] Coat nuggets thinly in seasoned yogurt, then press into buttered panko. Arrange a single layer with space on parchment-lined rimmed pan.
+5. [COOK] Preheat oven to 400°F. Bake nuggets 10 minutes, flip individually, then bake 6–10 more minutes until center of thickest nugget is 165°F.
+6. [FREEZE] Cool nuggets briefly on rack, refrigerate promptly, tray-freeze separated portions, then bag tightly and expel air. Store 2 months for best crunch.
+7. [SERVE] Place FROZEN nuggets on a rack over baking sheet. Bake at 400°F for about 10–16 minutes until hot and at least 165°F at centers; serve dip separately.",Cool on wire rack; tray-freeze separately before bagging.,Freezer zip bag with minimal air; double wrap if storing near 3 months.,2,Keep frozen until reheating.,400°F oven on rack 10–16 min from frozen to 165°F.,Moisture in crumbs causes loss of crunch.,Rack cooling and dry heat restore surface dryness.,https://www.budgetbytes.com/homemade-baked-chicken-nuggets/
+FM11,"Chicken Pot Pie Filling, Crust on Serving Day",6,stovetop_then_oven_on_serving_day,400,25–35 min after filling has been reheated; 10 min rest,165°F for assembled reheated filling,"1. 2 cups cooked diced chicken (about 12 oz)
+2. 3 tbsp butter
+3. 1/3 cup all-purpose flour
+4. 2 cups low-sodium chicken stock verified without onion or pepper additives
+5. 1/2 cup whole milk
+6. 1 cup frozen peas
+7. 1 cup diced carrots, cooked until tender
+8. 1 tsp dried thyme
+9. 3/4 tsp salt
+10. 1 refrigerated pie crust for serving day (do not freeze touching filling)","1: steps 2,5,6,7 — 2 cups cooked diced chicken (about 12 oz)
+2: steps 3 — 3 tbsp butter
+3: steps 3 — 1/3 cup all-purpose flour
+4: steps 4,6 — 2 cups low-sodium chicken stock verified without onion or pepper additives
+5: steps 4 — 1/2 cup whole milk
+6: steps 2,5 — 1 cup frozen peas
+7: steps 1,5 — 1 cup diced carrots, cooked until tender
+8: steps 5 — 1 tsp dried thyme
+9: steps 5 — 3/4 tsp salt
+10: steps 8,9 — 1 refrigerated pie crust for serving day (do not freeze touching filling)","Dice carrots to pea-size pieces and boil/steam until fork-tender, about 8–12 minutes; drain completely. Measure 1 cup cooked diced carrots. Dice or shred 2 cups fully cooked chicken. Measure 1 cup frozen peas; keep frozen until filling goes into pan. Heat oven to 400°F. Unroll 1 refrigerated pie crust over the HOT filling (keep crust chilled until use); press edges to dish and cut four vent slits. Do not put crust on filling before freezing.","1. [PREPARE] Dice carrots to pea-size pieces and boil/steam until fork-tender, about 8–12 minutes; drain completely. Measure 1 cup cooked diced carrots.
+2. [PREPARE] Dice or shred 2 cups fully cooked chicken. Measure 1 cup frozen peas; keep frozen until filling goes into pan.
+3. [COOK] Melt 3 tbsp butter in a saucepan over medium heat, then whisk in 1/3 cup all-purpose flour for 1–2 minutes to make a pale roux (do not brown).
+4. [COOK] Slowly whisk in 2 cups verified onion-free chicken stock, a few tablespoons first, then add 1/2 cup whole milk; simmer 3–5 minutes, whisking, until gravy coats a spoon.
+5. [COOK] Stir in 1 tsp dried thyme, 3/4 tsp salt, 2 cups cooked chicken, 1 cup peas and 1 cup drained cooked carrots. Simmer gently 3–5 minutes until peas are hot and mixture thick, not soupy.
+6. [FREEZE] Spoon filling into shallow containers and refrigerate promptly. Freeze chilled filling tightly covered WITHOUT crust; leave a little expansion room.
+7. [SERVE] Thaw filling in refrigerator, transfer to saucepan and reheat while stirring to 165°F, then spoon into a 9-inch pie dish.
+8. [ASSEMBLE] Heat oven to 400°F. Unroll 1 refrigerated pie crust over the HOT filling (keep crust chilled until use); press edges to dish and cut four vent slits. Do not put crust on filling before freezing.
+9. [COOK] Bake assembled pie at 400°F for 25–35 minutes until crust is golden and filling bubbles at vents. Check that filling reaches 165°F; rest 10 minutes before serving.",Rapidly chill the thick chicken filling without the pastry.,"Flat freezer bags or airtight quart-size tubs, leaving expansion headspace.",2,Thaw filling overnight in fridge; thaw purchased crust according to package.,"Reheat thawed filling in saucepan to 165°F, place in dish, top with crust, bake 400°F 25–35 min; do not place frozen glass dish into hot oven.",Dairy-thickened sauce might weep; pastry becomes soggy when touching frozen filling.,Thick roux-based filling and separately baked pastry hold textures better.,https://www.budgetbytes.com/chicken-pot-pie/
+FM12,"Chicken Noodle Soup Base, Noodles Added Later",6,stovetop,,not used; 30–40 min stovetop,165°F for chicken,"1. 1.5 lb boneless skinless chicken thighs
+2. 7 cups unsalted onion-free chicken stock or water
+3. 3 large carrots sliced into coins
+4. 2 celery ribs thinly sliced (optional)
+5. 2 garlic cloves minced
+6. 1 tsp dried thyme
+7. 1 bay leaf
+8. 1.25 tsp salt
+9. 6 oz dry egg noodles (add only when serving)","1: steps 2,4,5,6,8 — 1.5 lb boneless skinless chicken thighs
+2: steps 3,6,7 — 7 cups unsalted onion-free chicken stock or water
+3: steps 1,3 — 3 large carrots sliced into coins
+4: steps 1,3 — 2 celery ribs thinly sliced (optional)
+5: steps 1,3 — 2 garlic cloves minced
+6: steps 3 — 1 tsp dried thyme
+7: steps 3,5 — 1 bay leaf
+8: steps 3 — 1.25 tsp salt
+9: steps 7 — 6 oz dry egg noodles (add only when serving)",Peel and slice 3 large carrots into 1/4-inch coins; thinly slice 2 optional celery ribs and finely mince 2 garlic cloves. Pat 1.5 lb raw boneless skinless chicken thighs dry; leave whole so they can be shredded after simmering.,"1. [PREPARE] Peel and slice 3 large carrots into 1/4-inch coins; thinly slice 2 optional celery ribs and finely mince 2 garlic cloves.
+2. [PREPARE] Pat 1.5 lb raw boneless skinless chicken thighs dry; leave whole so they can be shredded after simmering.
+3. [COOK] Add 7 cups plain verified onion-free unsalted chicken broth (or water) to soup pot with carrots, celery if using, minced garlic, 1 tsp thyme, 1 bay leaf and 1.25 tsp salt. Bring to a gentle boil.
+4. [COOK] Slip raw chicken thighs into simmering broth. Lower heat, partially cover and simmer about 25–35 minutes until chicken reaches 165°F and vegetables are tender.
+5. [COOK] Lift out chicken, shred with clean forks, return to broth; find and REMOVE bay leaf, which should not be served or frozen in portions.
+6. [FREEZE] Ladle soup base WITHOUT noodles into shallow containers; chill rapidly and freeze airtight with about 1/2-inch headspace.
+7. [SERVE] Thaw soup base in refrigerator or reheat from frozen in saucepan until boiling. Add 6 oz DRY egg noodles directly to bubbling soup; simmer per noodle package (usually 6–9 minutes) until tender.
+8. [SERVE] Stir noodles through soup base and heat all the way through to at least 165°F, adding a splash of water only if noodles absorb too much broth.",Divide into shallow containers and chill quickly before freezing.,Quart freezer-safe tubs or liquid freezer bags; allow expansion space and eliminate extra air.,3,Fridge overnight or heat directly from frozen on stovetop.,Bring liquid to rolling boil; cook fresh noodles in soup; leftovers with poultry must be 165°F throughout.,Cooked noodles soak up liquid and become mushy after freezing.,Keep noodles dry and separately packaged until serving.,https://www.budgetbytes.com/chicken-noodle-soup/
+FM13,Cheesy Chicken and Broccoli Rice Casserole,6,oven,350,30–35 min freshly assembled; 35–50 min refrigerator-thawed cold casserole,165°F casserole center; all chicken previously 165°F,"1. 3 cups cooked white rice (cooked and cooled promptly)
+2. 2 cups cooked diced chicken (about 12 oz)
+3. 1.5 cups broccoli florets, lightly steamed and well drained
+4. 2 tbsp butter
+5. 2 tbsp flour
+6. 1.25 cups whole milk
+7. 1 cup shredded cheddar
+8. 1 tsp salt
+9. 1/2 tsp garlic powder
+10. 1/4 cup shredded cheddar for topping","1: steps 1,6,8 — 3 cups cooked white rice (cooked and cooled promptly)
+2: steps 2,6,8 — 2 cups cooked diced chicken (about 12 oz)
+3: steps 2,6,8 — 1.5 cups broccoli florets, lightly steamed and well drained
+4: steps 3,6 — 2 tbsp butter
+5: steps 3 — 2 tbsp flour
+6: steps 4 — 1.25 cups whole milk
+7: steps 5 — 1 cup shredded cheddar
+8: steps 4 — 1 tsp salt
+9: steps 4 — 1/2 tsp garlic powder
+10: steps 7,9 — 1/4 cup shredded cheddar for topping","Cook enough dry white rice to yield 3 cups cooked, following rice-package water ratio and cooking time. Spread cooked rice in a shallow container; refrigerate promptly to cool. Dice 2 cups fully cooked chicken. Steam 1.5 cups bite-size broccoli florets 3–5 minutes until just tender, then drain very thoroughly and pat dry. If freezing, refrigerate cheese sauce in a shallow container until cool first. In a large bowl fold chilled cooked rice, chilled cooked chicken and well-drained broccoli together with the cooled cheese sauce; distribute evenly without crushing rice. Spoon the mixture into a greased 8x8-inch metal baking pan. Measure remaining 1/4 cup cheddar separately for the topping; reserve in sealed little bag for baking day if freezing.","1. [PREPARE] Cook enough dry white rice to yield 3 cups cooked, following rice-package water ratio and cooking time. Spread cooked rice in a shallow container; refrigerate promptly to cool.
+2. [PREPARE] Dice 2 cups fully cooked chicken. Steam 1.5 cups bite-size broccoli florets 3–5 minutes until just tender, then drain very thoroughly and pat dry.
+3. [COOK] Melt 2 tbsp butter in a small saucepan over medium heat. Whisk in 2 tbsp flour and stir 1 minute to form a pale thickening paste.
+4. [COOK] Gradually whisk 1.25 cups whole milk into butter/flour until smooth. Add 1 tsp salt and 1/2 tsp garlic powder; simmer gently 2–4 minutes until lightly thickened.
+5. [COOK] Remove the pan from direct heat. Stir 1 cup shredded cheddar into the warm sauce in handfuls until melted (avoid boiling cheese sauce).
+6. [ASSEMBLE] If freezing, refrigerate cheese sauce in a shallow container until cool first. In a large bowl fold chilled cooked rice, chilled cooked chicken and well-drained broccoli together with the cooled cheese sauce; distribute evenly without crushing rice.
+7. [ASSEMBLE] Spoon the mixture into a greased 8x8-inch metal baking pan. Measure remaining 1/4 cup cheddar separately for the topping; reserve in sealed little bag for baking day if freezing.
+8. [FREEZE] Chill the assembled casserole promptly in refrigerator, cover airtight and freeze unbaked; do not leave warm rice at room temperature.
+9. [SERVE] Thaw casserole completely in refrigerator 24 hours. Remove ALL plastic. Heat oven to 350°F; cover pan in foil, bake 25–35 minutes, remove foil, scatter reserved 1/4 cup cheddar and bake 10–15 minutes more until center is 165°F.","Rapidly chill cooked rice, chicken and sauce components in shallow containers before assembly; never leave rice standing warm. Freeze casserole cold and tightly covered.",Small foil baking pan double wrapped (plastic film then foil; remove plastic before baking); label.,2,"Thaw 18–24 hr in fridge; bake in metal pan, not frozen glass.",Remove all plastic. Bake covered at 350°F 25–35 min then uncover 10–15 min or until 165°F center.,Rice can become soft and broccoli watery; cheese sauce may split.,"Drain broccoli, cook rice just tender, use thick roux sauce and small pans.",https://www.budgetbytes.com/cheesy-chicken-vegetable-rice-casserole/
+FM14,Chicken Parmesan Meatballs in Tomato Sauce,5,oven_plus_stovetop,400,18–22 min oven plus 10–13 min sauce,165°F ground chicken,"1. 1.25 lb ground chicken
+2. 1 egg
+3. 1/2 cup plain breadcrumbs
+4. 1/3 cup finely grated Parmesan
+5. 1 tsp dried basil
+6. 1/2 tsp garlic powder
+7. 3/4 tsp salt
+8. 1 (28 oz) can plain crushed tomatoes
+9. 1 tbsp olive oil
+10. 1 tsp sugar","1: steps 1,2,3,5,6,7 — 1.25 lb ground chicken
+2: steps 1 — 1 egg
+3: steps 1 — 1/2 cup plain breadcrumbs
+4: steps 1 — 1/3 cup finely grated Parmesan
+5: steps 1 — 1 tsp dried basil
+6: steps 1 — 1/2 tsp garlic powder
+7: steps 1 — 3/4 tsp salt
+8: steps 4,5,6,7 — 1 (28 oz) can plain crushed tomatoes
+9: steps 4 — 1 tbsp olive oil
+10: steps 4 — 1 tsp sugar","Mix 1.25 lb ground chicken, 1 egg, 1/2 cup plain breadcrumbs, 1/3 cup Parmesan, 1 tsp basil, 1/2 tsp garlic powder and 3/4 tsp salt gently in bowl until evenly combined. Roll mixture into about 20 equally sized meatballs with clean damp hands; space 1 inch apart on parchment-lined rimmed baking sheet.","1. [PREPARE] Mix 1.25 lb ground chicken, 1 egg, 1/2 cup plain breadcrumbs, 1/3 cup Parmesan, 1 tsp basil, 1/2 tsp garlic powder and 3/4 tsp salt gently in bowl until evenly combined.
+2. [ASSEMBLE] Roll mixture into about 20 equally sized meatballs with clean damp hands; space 1 inch apart on parchment-lined rimmed baking sheet.
+3. [COOK] Preheat oven to 400°F; bake chicken meatballs 18–22 minutes until thickest center is 165°F.
+4. [COOK] Meanwhile heat 1 tbsp olive oil in saucepan over medium. Pour in 1 can (28 oz) plain crushed tomatoes and stir in 1 tsp sugar; simmer uncovered 10 minutes, stirring so it does not spit or scorch.
+5. [COOK] Transfer fully cooked meatballs into the tomato sauce. Simmer together 3 minutes so sauce coats each ball. Taste and adjust at table rather than adding an unlisted spice blend.
+6. [FREEZE] Divide sauced meatballs into shallow boxes, cool promptly and freeze airtight with meatballs covered by sauce.
+7. [SERVE] Thaw in refrigerator overnight. Heat covered on stovetop 10–15 minutes, stirring gently, until centers reach 165°F; serve with freshly cooked noodles if desired.",Cool meatballs immersed in thick tomato sauce rapidly.,Airtight 2–3 serving containers with sauce covering meatballs; allow expansion room.,3,Fridge overnight.,Covered saucepan low-medium 10–15 min until 165°F.,Plain lean chicken dries out without sauce.,"Tomato sauce surrounds meatballs, preserving moisture while freezing.",https://www.budgetbytes.com/chicken-parmesan-meatballs/
+FM15,Simple Baked Turkey Meatballs,4,oven,400,18–22 min,165°F ground turkey,"1. 1 lb 93% lean ground turkey
+2. 1 egg
+3. 1/2 cup breadcrumbs
+4. 1/4 cup milk
+5. 1 tbsp olive oil
+6. 1/2 tsp garlic powder
+7. 1 tsp dried parsley
+8. 3/4 tsp salt","1: steps 2,3,4,5,6 — 1 lb 93% lean ground turkey
+2: steps 2 — 1 egg
+3: steps 1 — 1/2 cup breadcrumbs
+4: steps 1 — 1/4 cup milk
+5: steps 2 — 1 tbsp olive oil
+6: steps 2 — 1/2 tsp garlic powder
+7: steps 2 — 1 tsp dried parsley
+8: steps 2 — 3/4 tsp salt","Soak 1/2 cup plain breadcrumbs in 1/4 cup milk in large bowl for 2 minutes. Add 1 lb ground turkey, 1 egg, 1 tbsp olive oil, 1/2 tsp garlic powder, 1 tsp dried parsley and 3/4 tsp salt to soaked breadcrumbs. Gently mix just until uniform. Shape 16 small even meatballs with damp hands and arrange on parchment-lined rimmed baking sheet, leaving spaces.","1. [PREPARE] Soak 1/2 cup plain breadcrumbs in 1/4 cup milk in large bowl for 2 minutes.
+2. [PREPARE] Add 1 lb ground turkey, 1 egg, 1 tbsp olive oil, 1/2 tsp garlic powder, 1 tsp dried parsley and 3/4 tsp salt to soaked breadcrumbs. Gently mix just until uniform.
+3. [ASSEMBLE] Shape 16 small even meatballs with damp hands and arrange on parchment-lined rimmed baking sheet, leaving spaces.
+4. [COOK] Heat oven to 400°F. Bake 18–22 minutes or until middle of several meatballs is at least 165°F; rest 5 minutes.
+5. [FREEZE] Chill cooked meatballs promptly in shallow containers. Freeze separated on tray then transfer to freezer bag, air removed; optionally pack in an onion-free smooth tomato sauce (not included in ingredient amounts).
+6. [SERVE] Thaw overnight or reheat straight from frozen in a covered 325°F oven about 15–25 minutes until 165°F; add a spoon of water or sauce to prevent drying.","Cool on sheet briefly, then refrigerate promptly in shallow covered container; tray-freeze if storing plain.","Wrap portions tightly then place in freezer-grade bags, preferably with a small sauce packet.",3,Fridge overnight.,350°F oven covered 12–20 min to 165°F; add 1–2 tbsp water or sauce before heating.,Low fat meat dries during long reheating.,Olive oil and sauce protect moisture; avoid overbaking.,https://www.budgetbytes.com/turkey-meatballs/
+FM16,Mild Beef and Bean Tomato Stew,6,stovetop,,not used; stovetop 35–40 min,160°F ground beef,"1. 1.25 lb 90% lean ground beef
+2. 1 (28 oz) can crushed tomatoes, plain
+3. 2 (15 oz) cans pinto beans, drained and rinsed
+4. 1 cup water
+5. 2 carrots grated finely
+6. 1 tsp ground cumin
+7. 1 tsp garlic powder
+8. 1.25 tsp salt
+9. 1 tbsp olive oil
+10. 1 tsp brown sugar","1: steps 2,5,6,7 — 1.25 lb 90% lean ground beef
+2: steps 3,5,6,7 — 1 (28 oz) can crushed tomatoes, plain
+3: steps 1,3,5,6,7 — 2 (15 oz) cans pinto beans, drained and rinsed
+4: steps 3 — 1 cup water
+5: steps 1,2 — 2 carrots grated finely
+6: steps 4 — 1 tsp ground cumin
+7: steps 4 — 1 tsp garlic powder
+8: steps 4 — 1.25 tsp salt
+9: steps 2 — 1 tbsp olive oil
+10: steps 4 — 1 tsp brown sugar",Drain and rinse TWO 15-oz cans pinto beans thoroughly. Peel and grate 2 carrots on fine grater so they disappear into stew.,"1. [PREPARE] Drain and rinse TWO 15-oz cans pinto beans thoroughly. Peel and grate 2 carrots on fine grater so they disappear into stew.
+2. [COOK] Heat 1 tbsp olive oil in Dutch oven over medium. Add 1.25 lb ground beef and 2 grated carrots; break beef into small pieces and cook 8–10 minutes until center of crumbles is 160°F; drain excess fat.
+3. [COOK] Add 1 can (28 oz) plain crushed tomatoes, both drained bean cans and 1 cup water. Stir to distribute beef and carrots.
+4. [COOK] Add 1 tsp cumin, 1 tsp garlic powder, 1.25 tsp salt and 1 tsp brown sugar. Stir well so no dry spice pockets remain.
+5. [COOK] Bring mixture to gentle boil, lower to simmer and cook uncovered 25–30 minutes, stirring every 5 minutes, until thick enough for a spoon to leave a trail. Add a little water only if sticking.
+6. [FREEZE] Portion stew into shallow 1–2 cup freezer-safe containers; chill promptly, cover airtight leaving headspace and freeze.
+7. [SERVE] From thawed or frozen, reheat in saucepan covered, stirring frequently until rolling boil and at least 165°F throughout; add cheese separately if desired.","Chill in shallow 1–2 cup portions, avoid packing while steaming.","Freezer-tight pint containers, 1/2 inch headspace; tightly lid.",3,Refrigerator overnight or reheat directly from frozen in pot.,"Covered pot, stir regularly and bring to rolling boil; verify 165°F throughout.",Beans soften slightly; watery tomatoes form larger ice crystals.,Reduce sauce until thick before chilling; beans are more texture tolerant than raw vegetables.,https://www.budgetbytes.com/brunswick-stew/
+FM17,"Beef Stew Gravy Base, Add Potatoes Fresh",6,stovetop,,not used; 105–135 min stovetop,Whole beef minimum 145°F with 3-min rest; stew simmered until fork tender,"1. 2 lb beef chuck cut in 1-inch cubes
+2. 2 tbsp neutral oil
+3. 3 tbsp flour
+4. 2 cups water plus 1 cup onion-free beef stock
+5. 2 cups carrots cut in thick coins
+6. 1 tbsp tomato paste
+7. 1 tsp salt
+8. 1/2 tsp dried thyme
+9. 1 bay leaf
+10. 1 lb potatoes added only on serving day","1: steps 1,5,7,9,11 — 2 lb beef chuck cut in 1-inch cubes
+2: steps 5 — 2 tbsp neutral oil
+3: steps 2,8 — 3 tbsp flour
+4: steps 3,6,9 — 2 cups water plus 1 cup onion-free beef stock
+5: steps 4,6,7 — 2 cups carrots cut in thick coins
+6: steps 3 — 1 tbsp tomato paste
+7: steps 6 — 1 tsp salt
+8: steps 4,6 — 1/2 tsp dried thyme
+9: steps 4,6,8 — 1 bay leaf
+10: steps 10,11 — 1 lb potatoes added only on serving day","Pat dry 2 lb beef chuck cut into even 1-inch cubes. Trim large hard fat; leave some marbling for tenderness. Put 2 tbsp of the 3 tbsp flour into a wide dish and roll beef cubes in it; reserve remaining 1 tbsp flour for gravy adjustment near the end. In a pitcher whisk 2 cups water with 1 cup VERIFIED onion-free beef stock and 1 tbsp tomato paste until paste dissolves. Peel and cut 2 cups carrots into thick coins, measure 1/2 tsp dried thyme and set aside 1 whole bay leaf. Keep 1 lb potatoes SEPARATE for serving day; do not add them to the freezer base.","1. [PREPARE] Pat dry 2 lb beef chuck cut into even 1-inch cubes. Trim large hard fat; leave some marbling for tenderness.
+2. [PREPARE] Put 2 tbsp of the 3 tbsp flour into a wide dish and roll beef cubes in it; reserve remaining 1 tbsp flour for gravy adjustment near the end.
+3. [PREPARE] In a pitcher whisk 2 cups water with 1 cup VERIFIED onion-free beef stock and 1 tbsp tomato paste until paste dissolves.
+4. [PREPARE] Peel and cut 2 cups carrots into thick coins, measure 1/2 tsp dried thyme and set aside 1 whole bay leaf. Keep 1 lb potatoes SEPARATE for serving day; do not add them to the freezer base.
+5. [COOK] Heat 2 tbsp neutral oil in heavy Dutch oven over medium-high. Brown floured beef in two batches for about 3–5 minutes per batch, turning to brown most sides; remove to a clean plate.
+6. [COOK] Pour prepared stock mixture into pot, scraping bottom to release browned bits. Return beef, add carrots, 1 tsp salt, thyme and bay leaf; bring to low simmer.
+7. [COOK] Cover partially and simmer gently 90–120 minutes (not a hard boil), stirring every 20 minutes, until beef is fork-tender and carrots are soft. Add a splash of water if drying out.
+8. [COOK] Remove bay leaf. For thicker gravy whisk reserved 1 tbsp flour into 2 tbsp cool water to make lump-free slurry, stir into simmering stew, and simmer 3–5 minutes. If gravy is thick already, omit slurry; the reserved flour is not required to go into the pot.
+9. [FREEZE] Cool beef, carrots and gravy quickly in shallow containers with meat submerged in gravy. Seal airtight and freeze WITHOUT potatoes.
+10. [SERVE] Peel and dice 1 lb fresh potatoes into 3/4-inch cubes. Boil in salted water for approximately 10–15 minutes until a fork passes easily; drain thoroughly.
+11. [SERVE] Thaw stew base in fridge, bring to simmer in saucepan and heat to at least 165°F; add drained freshly cooked potatoes, stir gently and serve immediately.","Cool meat, carrots and thickened gravy in shallow containers; potatoes not included.",Freezer-safe 2-cup containers with meat covered by gravy; expansion space for liquid.,3,Overnight in refrigerator; or thaw with heat in saucepan.,"Bring thawed base to a full simmer and cook peeled diced potatoes separately until fork tender, then combine and heat all to 165°F.",Boiled potato chunks freeze mealy and waterlogged.,Leaving potatoes out avoids damaged starch structure; gravy covers beef.,https://www.budgetbytes.com/beef-stew/
+FM18,"Beef Stroganoff Base, Sour Cream Added Later",5,stovetop,,not used; stovetop 16–20 min,160°F ground beef; 165°F for reheated base,"1. 1.25 lb lean ground beef
+2. 8 oz sliced mushrooms (optional)
+3. 2 tbsp butter
+4. 2 tbsp flour
+5. 1.5 cups water
+6. 2 tsp onion-free beef base or equivalent homemade unsalted onion-free stock
+7. 1 tbsp Dijon mustard checked for excluded spices
+8. 1/2 tsp garlic powder
+9. 1 tsp salt
+10. 1/2 cup sour cream added after reheating
+11. 8 oz dry egg noodles cooked fresh","1: steps 3,6,7,9 — 1.25 lb lean ground beef
+2: steps 1,3 — 8 oz sliced mushrooms (optional)
+3: steps 4 — 2 tbsp butter
+4: steps 4 — 2 tbsp flour
+5: steps 2,5,7 — 1.5 cups water
+6: steps 2,5 — 2 tsp onion-free beef base or equivalent homemade unsalted onion-free stock
+7: steps 5 — 1 tbsp Dijon mustard checked for excluded spices
+8: steps 5 — 1/2 tsp garlic powder
+9: steps 5 — 1 tsp salt
+10: steps 9 — 1/2 cup sour cream added after reheating
+11: steps 8,10 — 8 oz dry egg noodles cooked fresh","If using 8 oz fresh mushrooms, wipe clean with damp paper towel and slice thinly. For a smoother child-friendly sauce, omit mushrooms entirely. Whisk 2 tsp verified onion-free beef base into 1.5 cups water to make broth. If using homemade broth instead, use 1.5 cups in place of water and base.","1. [PREPARE] If using 8 oz fresh mushrooms, wipe clean with damp paper towel and slice thinly. For a smoother child-friendly sauce, omit mushrooms entirely.
+2. [PREPARE] Whisk 2 tsp verified onion-free beef base into 1.5 cups water to make broth. If using homemade broth instead, use 1.5 cups in place of water and base.
+3. [COOK] Heat a large skillet over medium-high, add 1.25 lb ground beef and optional mushrooms. Crumble beef and cook 7–9 minutes until ground beef reaches 160°F; pour off excess fat/liquid, then transfer to bowl.
+4. [COOK] In same skillet over medium melt 2 tbsp butter; whisk in 2 tbsp flour, stirring about 1 minute until uniformly smooth.
+5. [COOK] Gradually whisk prepared 1.5 cups broth into roux. Add 1 tbsp verified onion-free, pepper-free Dijon mustard, 1/2 tsp garlic powder and 1 tsp salt. Bring to a gentle simmer and stir 3–5 minutes until sauce begins to thicken.
+6. [COOK] Return browned beef and mushrooms if used to sauce. Simmer gently 4–5 minutes, stirring until gravy coats meat; do NOT add sour cream or dry noodles yet.
+7. [FREEZE] Divide gravy and beef base among shallow freezer containers, chill promptly, then seal with little air. Keep sour cream and uncooked noodles out of freezer portion.
+8. [SERVE] Boil 8 oz DRY egg noodles in water according to its package (usually 7–10 minutes); drain without rinsing. Do this close to serving.
+9. [SERVE] Thaw beef base overnight, reheat it separately to 165°F in saucepan, then TURN OFF heat. Stir in 1/2 cup sour cream until smooth; warm gently if needed, never hard-boil sour cream.
+10. [SERVE] Spoon finished stroganoff over hot freshly cooked noodles and eat immediately.",Quickly chill meat and gravy without sour cream or noodles.,Flat freezer-grade bags or freezer-tight containers; remove as much air as feasible.,2,Refrigerator overnight.,"Heat base to 165°F; remove from heat, fold in 1/2 cup sour cream, serve over freshly cooked noodles.",Sour cream can separate; noodles become spongy.,Freeze stable gravy base and add fresh dairy and noodles after thawing.,https://www.budgetbytes.com/beef-stroganoff/
+FM19,Thick Beef Bolognese for Pasta,6,stovetop,,not used; stovetop 45–55 min,160°F ground beef,"1. 1.5 lb lean ground beef
+2. 2 large carrots grated finely
+3. 2 cloves garlic minced
+4. 1 (28 oz) can plain crushed tomatoes
+5. 2 tbsp tomato paste
+6. 1/2 cup water
+7. 1 tbsp olive oil
+8. 1 tsp dried oregano
+9. 1 tsp dried basil
+10. 1.25 tsp salt
+11. 1 tsp sugar","1: steps 2,6,7,8 — 1.5 lb lean ground beef
+2: steps 1,2 — 2 large carrots grated finely
+3: steps 1,3 — 2 cloves garlic minced
+4: steps 4,6,7,8 — 1 (28 oz) can plain crushed tomatoes
+5: steps 3 — 2 tbsp tomato paste
+6: steps 4 — 1/2 cup water
+7: steps 2 — 1 tbsp olive oil
+8: steps 5 — 1 tsp dried oregano
+9: steps 5 — 1 tsp dried basil
+10: steps 5 — 1.25 tsp salt
+11: steps 5 — 1 tsp sugar","Peel and finely grate 2 carrots. Mince 2 garlic cloves, keeping the garlic ready to add only briefly so it does not burn.","1. [PREPARE] Peel and finely grate 2 carrots. Mince 2 garlic cloves, keeping the garlic ready to add only briefly so it does not burn.
+2. [COOK] Heat 1 tbsp olive oil in Dutch oven on medium; crumble in 1.5 lb ground beef and add grated carrots. Stir and brown 8–10 minutes until beef reaches 160°F; drain surplus grease.
+3. [COOK] Stir in minced garlic for 30 seconds, then 2 tbsp tomato paste for another 30–60 seconds to soften its raw taste.
+4. [COOK] Pour in 1 can (28 oz) plain crushed tomatoes and 1/2 cup water, scraping bottom to dissolve browned bits and tomato paste.
+5. [COOK] Stir in 1 tsp dried oregano, 1 tsp dried basil, 1.25 tsp salt and 1 tsp sugar evenly. Bring to gentle bubble.
+6. [COOK] Simmer uncovered 35–45 minutes on low, stirring every 5–10 minutes, until sauce is thick enough not to leave a puddle of water on a plate.
+7. [FREEZE] Spoon thick sauce into shallow 1–2 cup containers, chill promptly and freeze airtight with expansion room. Freeze separately from pasta for better texture.
+8. [SERVE] Thaw in refrigerator or heat gently from frozen in saucepan, stirring to a full simmer until 165°F. Serve over fresh-cooked spaghetti or other noodles (not included in ingredient list).",Chill thick sauce in 1–2 cup portions quickly.,"Flat freezer-grade bags, press out air; freeze in stacks after solid.",3,Overnight in refrigerator or gently from frozen in saucepan.,"Bring to a boil, reduce and stir to 165°F; toss with freshly boiled pasta.",Extra liquid causes ice crystals and watery reheated sauce.,Reducing sauce decreases free water; separate pasta avoids sogginess.,https://www.budgetbytes.com/bolognese/
+FM20,Mild Beef and Cheese Baked Ziti,6,oven,375,40–45 min after refrigerator thaw,160°F cooked beef; 165°F assembled finished casserole,"1. 12 oz dry ziti
+2. 1 lb lean ground beef
+3. 1 (28 oz) can plain crushed tomatoes
+4. 2 tbsp tomato paste
+5. 1 tsp dried basil
+6. 1 tsp dried oregano
+7. 1 tsp garlic powder
+8. 1 tsp salt
+9. 1 cup ricotta
+10. 1 large egg
+11. 1.5 cups shredded mozzarella
+12. 1/4 cup Parmesan","1: steps 1,6,7,8 — 12 oz dry ziti
+2: steps 2,6 — 1 lb lean ground beef
+3: steps 3 — 1 (28 oz) can plain crushed tomatoes
+4: steps 3 — 2 tbsp tomato paste
+5: steps 3 — 1 tsp dried basil
+6: steps 3 — 1 tsp dried oregano
+7: steps 3 — 1 tsp garlic powder
+8: steps 3 — 1 tsp salt
+9: steps 4,6,7 — 1 cup ricotta
+10: steps 4 — 1 large egg
+11: steps 5,6,8 — 1.5 cups shredded mozzarella
+12: steps 4 — 1/4 cup Parmesan","Boil 12 oz DRY ziti in salted water for 2 minutes LESS than package's al-dente cooking time. Drain well; spread briefly to release steam and refrigerate promptly if not assembling immediately. In separate clean bowl whisk 1 cup ricotta, 1 raw egg and 1/4 cup Parmesan until fully blended. This mixture contains raw egg; keep cold and bake promptly after thawing. Divide the 1.5 cups mozzarella into 1/2 cup for INSIDE casserole and 1 cup for the final topping; keep topping refrigerated or in a tiny labeled freezer bag. Before assembling a freezer meal, chill meat sauce and cooked pasta promptly in shallow containers until cool. In greased 9x13-inch metal pan, spread 1/3 cooled meat sauce, then half cooked pasta, dot with half ricotta mixture and sprinkle 1/4 cup mozzarella. Add another 1/3 sauce, remaining pasta and ricotta, remaining 1/4 cup inside mozzarella, then final sauce.","1. [PREPARE] Boil 12 oz DRY ziti in salted water for 2 minutes LESS than package's al-dente cooking time. Drain well; spread briefly to release steam and refrigerate promptly if not assembling immediately.
+2. [COOK] Brown 1 lb lean ground beef in wide skillet over medium for 7–9 minutes, crumbling until it reaches 160°F; drain excess grease.
+3. [COOK] Add 1 can (28 oz) plain crushed tomatoes, 2 tbsp tomato paste, 1 tsp basil, 1 tsp oregano, 1 tsp garlic powder and 1 tsp salt to browned beef; simmer uncovered 12–15 minutes to thicken.
+4. [PREPARE] In separate clean bowl whisk 1 cup ricotta, 1 raw egg and 1/4 cup Parmesan until fully blended. This mixture contains raw egg; keep cold and bake promptly after thawing.
+5. [PREPARE] Divide the 1.5 cups mozzarella into 1/2 cup for INSIDE casserole and 1 cup for the final topping; keep topping refrigerated or in a tiny labeled freezer bag.
+6. [ASSEMBLE] Before assembling a freezer meal, chill meat sauce and cooked pasta promptly in shallow containers until cool. In greased 9x13-inch metal pan, spread 1/3 cooled meat sauce, then half cooked pasta, dot with half ricotta mixture and sprinkle 1/4 cup mozzarella. Add another 1/3 sauce, remaining pasta and ricotta, remaining 1/4 cup inside mozzarella, then final sauce.
+7. [FREEZE] Refrigerate assembled pan promptly until fully cold. Cover surface closely with freezer-safe wrap, then foil; freeze unbaked. Remove all plastic before heating.
+8. [SERVE] Thaw completely 24–36 hours in refrigerator. Preheat oven to 375°F; cover dish with foil and bake 25–30 minutes, uncover, sprinkle reserved 1 cup mozzarella over top, then bake 15–20 minutes more until center is 165°F and cheese is melted. Rest 10 minutes.","Refrigerate sauce and pasta promptly until cold; assemble cold, wrap pan and freeze.","Metal 9x13-inch pan; tight plastic wrap plus heavy foil, label; remove plastic before oven.",2,Refrigerator 24–36 hr until fully thawed.,"Bake 375°F covered 25 min, uncover with reserved cheese 15–20 min; center 165°F.",Pasta softens as it absorbs tomato water; cheese topping may be soggy.,"Slightly undercook pasta, thicken sauce and freeze unbaked.",https://www.spendwithpennies.com/baked-ziti/
+FM21,Classic Mild Meat Lasagna,8,oven,375,55–60 min after complete refrigerator thaw,160°F beef first; 165°F when baked/reheated casserole,"1. 9 regular lasagna noodles
+2. 1 lb lean ground beef
+3. 1 (28 oz) can plain crushed tomatoes
+4. 1 (15 oz) can plain tomato sauce
+5. 1 tsp dried oregano
+6. 1 tsp dried basil
+7. 1 tsp salt
+8. 1/2 tsp garlic powder
+9. 15 oz ricotta
+10. 1 large egg
+11. 2 cups shredded mozzarella
+12. 1/3 cup grated Parmesan","1: steps 1,6,7,8 — 9 regular lasagna noodles
+2: steps 2,6,7 — 1 lb lean ground beef
+3: steps 3 — 1 (28 oz) can plain crushed tomatoes
+4: steps 3 — 1 (15 oz) can plain tomato sauce
+5: steps 3 — 1 tsp dried oregano
+6: steps 3 — 1 tsp dried basil
+7: steps 3 — 1 tsp salt
+8: steps 3 — 1/2 tsp garlic powder
+9: steps 4,6,7 — 15 oz ricotta
+10: steps 4 — 1 large egg
+11: steps 5,6,8 — 2 cups shredded mozzarella
+12: steps 4 — 1/3 cup grated Parmesan","Bring large pot of water to a boil and cook 9 REGULAR dry lasagna noodles according to package until just shy of al dente (about 1–2 minutes short). Drain, separate on clean tray, and cool promptly. In separate bowl thoroughly mix 15 oz ricotta, 1 large raw egg and 1/3 cup Parmesan; keep refrigerated until assembling. Measure 2 cups low-moisture shredded mozzarella and separate into 3 approximately equal portions for the 3 layers. Cool sauce and cooked noodles promptly in separate shallow containers before assembling for freezer. Put a thin layer of cooled meat sauce in greased 9x13-inch metal pan. Layer 3 noodles, 1/3 ricotta-egg mix, 1/3 remaining meat sauce, and 1/3 mozzarella. Repeat twice, ending with sauce and mozzarella; use all measured ingredients.","1. [PREPARE] Bring large pot of water to a boil and cook 9 REGULAR dry lasagna noodles according to package until just shy of al dente (about 1–2 minutes short). Drain, separate on clean tray, and cool promptly.
+2. [COOK] Brown 1 lb ground beef in skillet over medium, crumbling for 7–9 minutes until 160°F. Pour off fat.
+3. [COOK] Add 1 can (28 oz) plain crushed tomatoes, 1 can (15 oz) plain tomato sauce, 1 tsp oregano, 1 tsp basil, 1 tsp salt and 1/2 tsp garlic powder to browned beef. Simmer uncovered 15 minutes to reduce watery liquid.
+4. [PREPARE] In separate bowl thoroughly mix 15 oz ricotta, 1 large raw egg and 1/3 cup Parmesan; keep refrigerated until assembling.
+5. [PREPARE] Measure 2 cups low-moisture shredded mozzarella and separate into 3 approximately equal portions for the 3 layers.
+6. [ASSEMBLE] Cool sauce and cooked noodles promptly in separate shallow containers before assembling for freezer. Put a thin layer of cooled meat sauce in greased 9x13-inch metal pan. Layer 3 noodles, 1/3 ricotta-egg mix, 1/3 remaining meat sauce, and 1/3 mozzarella. Repeat twice, ending with sauce and mozzarella; use all measured ingredients.
+7. [FREEZE] Chill assembled lasagna promptly to refrigerator temperature, cover surface tightly and double-wrap foil. Freeze before baking; label as containing uncooked egg mixture.
+8. [SERVE] Thaw completely in refrigerator, usually 24–36 hours. Remove plastic; cover with foil and bake at 375°F for 40 minutes, uncover 15–20 minutes more. Test center to 165°F, then rest 15 minutes before cutting.","Chill meat sauce, noodles and cheese filling before assembly; freeze unbaked covered.","9x13-inch metal/foil pan, wrap snugly with plastic then foil, label.",3,24–36 hr refrigerator for full pan.,375°F covered 40 min + uncovered 15–20 min; center 165°F.,Overcooked noodles become waterlogged; cheese can exude whey.,Thick tomato sauce and slightly firm noodles reduce moisture migration.,https://www.budgetbytes.com/easy-homemade-lasagna/
+FM22,Sweet and Mild Sloppy Joe Meat Filling,5,stovetop,,not used; stovetop 25–30 min,160°F ground beef,"1. 1.25 lb 90% lean ground beef
+2. 1 (6 oz) can tomato paste
+3. 3/4 cup water
+4. 2 tbsp brown sugar
+5. 1 tbsp apple cider vinegar
+6. 1 tsp garlic powder
+7. 1 tsp salt
+8. 1/2 tsp dry mustard powder (ground mustard seed, not spicy blend)
+9. 1 tbsp olive oil","1: steps 2,3,4,5,6 — 1.25 lb 90% lean ground beef
+2: steps 1,3,4,5,6 — 1 (6 oz) can tomato paste
+3: steps 1 — 3/4 cup water
+4: steps 1 — 2 tbsp brown sugar
+5: steps 1 — 1 tbsp apple cider vinegar
+6: steps 1 — 1 tsp garlic powder
+7: steps 1 — 1 tsp salt
+8: steps 1 — 1/2 tsp dry mustard powder (ground mustard seed, not spicy blend)
+9: steps 2 — 1 tbsp olive oil","In bowl whisk 1 (6 oz) can tomato paste, 3/4 cup water, 2 tbsp brown sugar, 1 tbsp apple cider vinegar, 1 tsp garlic powder, 1 tsp salt and 1/2 tsp plain dry ground mustard SEED until smooth; verify mustard has no excluded spice blend.","1. [PREPARE] In bowl whisk 1 (6 oz) can tomato paste, 3/4 cup water, 2 tbsp brown sugar, 1 tbsp apple cider vinegar, 1 tsp garlic powder, 1 tsp salt and 1/2 tsp plain dry ground mustard SEED until smooth; verify mustard has no excluded spice blend.
+2. [COOK] Heat 1 tbsp olive oil in deep skillet over medium. Add 1.25 lb lean ground beef; break into fine crumbles and cook 7–9 minutes until 160°F. Drain any excessive grease.
+3. [COOK] Pour blended tomato sauce over browned beef, stir thoroughly and scrape bottom of pan.
+4. [COOK] Simmer uncovered on medium-low 15–20 minutes, stirring frequently, until thick and spoonable rather than runny. Do not add extra water unless sauce sticks.
+5. [FREEZE] Divide filling into shallow containers, cool promptly and freeze in tight low-air bags. Do NOT freeze inside bread buns, which get soggy.
+6. [SERVE] Thaw filling overnight; reheat in saucepan, stirring to at least 165°F. Spoon onto freshly toasted buns (buns not included in recipe ingredients).",Cool reduced beef mixture in shallow individual or 3-serving portions.,Freezer zip bags flattened to 1/2–1 inch with minimal air; freeze flat.,3,Fridge overnight or reheat directly from frozen in pan.,"Cover over low-medium heat, stir to 165°F; toast buns fresh.",Runny filling wets buns and water separates after thawing.,Thicken sauce well and pack bread separately.,https://www.budgetbytes.com/sloppy-joes-/
+FM23,Mild Beef and Cheddar Freezer Burritos,8,assembly_then_reheat_oven,350,30–40 min from frozen in foil,160°F when ground beef cooked; 165°F for assembled reheated burrito,"1. 1 lb lean ground beef
+2. 8 large flour tortillas (10 inch)
+3. 1 (15 oz) can pinto beans, drained and rinsed
+4. 1.5 cups shredded cheddar cheese
+5. 1/3 cup tomato paste
+6. 1/3 cup water
+7. 1 tsp ground cumin
+8. 3/4 tsp salt
+9. 1/2 tsp garlic powder","1: steps 2,5 — 1 lb lean ground beef
+2: steps 4,5,6,7 — 8 large flour tortillas (10 inch)
+3: steps 1,3,5 — 1 (15 oz) can pinto beans, drained and rinsed
+4: steps 4,5 — 1.5 cups shredded cheddar cheese
+5: steps 3 — 1/3 cup tomato paste
+6: steps 3 — 1/3 cup water
+7: steps 3 — 1 tsp ground cumin
+8: steps 3 — 3/4 tsp salt
+9: steps 3 — 1/2 tsp garlic powder",Rinse and thoroughly drain 1 (15 oz) can pinto beans in colander. Pat lightly dry so beans do not soak tortillas. Put 8 large 10-inch flour tortillas on clean work surface. Measure 1.5 cups cheddar (about 3 tbsp per burrito). Warm tortillas one at a time 10–15 seconds in microwave or dry pan until flexible. Cool beef-bean filling promptly until no longer steaming. Divide into eight equal portions (about 1/2 cup each) on tortilla centers; add about 3 tbsp cheddar on each. Fold two side edges over filling then roll tightly from bottom.,"1. [PREPARE] Rinse and thoroughly drain 1 (15 oz) can pinto beans in colander. Pat lightly dry so beans do not soak tortillas.
+2. [COOK] In nonstick skillet over medium brown 1 lb lean ground beef 7–9 minutes while breaking it into small crumbles; measure 160°F and drain grease.
+3. [COOK] Stir 1/3 cup tomato paste, 1/3 cup water, 1 tsp cumin, 3/4 tsp salt and 1/2 tsp garlic powder into browned beef, then add drained beans; simmer uncovered 5–8 minutes until filling is thick, not wet.
+4. [PREPARE] Put 8 large 10-inch flour tortillas on clean work surface. Measure 1.5 cups cheddar (about 3 tbsp per burrito). Warm tortillas one at a time 10–15 seconds in microwave or dry pan until flexible.
+5. [ASSEMBLE] Cool beef-bean filling promptly until no longer steaming. Divide into eight equal portions (about 1/2 cup each) on tortilla centers; add about 3 tbsp cheddar on each. Fold two side edges over filling then roll tightly from bottom.
+6. [FREEZE] Place burritos seam down; wrap each individually tightly in freezer paper or film, then bag together airtight and label.
+7. [SERVE] From frozen, REMOVE plastic, wrap each in aluminum foil and bake at 350°F for about 30–40 minutes, checking thickest center to 165°F. Unwrap and crisp seam-side down in dry skillet 1–2 minutes if wanted.",Chill beef filling fully before wrapping tortillas; drain beans until surface dry.,"Wrap each burrito in freezer wrap (or parchment plus overwrap), put in gallon freezer-grade bag, remove air.",2,Best reheated directly from frozen; fridge overnight also works.,"350°F oven from frozen 30–40 min in foil to 165°F, unwrap for last 4–5 min to crisp.",Wet fillings make tortillas gummy; trapped air dries edges.,"Dry filling, full cooling, tight individual wraps limit moisture movement.",https://www.budgetbytes.com/make-ahead-bean-and-cheese-burritos/
+FM24,Cheesy Pinto Bean Freezer Burritos,8,assembly_then_reheat_oven,350,30–40 min frozen in foil plus optional 5 min crisp,165°F for reheated burritos,"1. 8 large flour tortillas
+2. 2 (15 oz) cans pinto beans, rinsed and thoroughly drained
+3. 1.5 cups shredded mild cheddar
+4. 2 tbsp tomato paste
+5. 1/4 cup water
+6. 3/4 tsp ground cumin
+7. 1/2 tsp garlic powder
+8. 3/4 tsp salt
+9. 1 tbsp oil","1: steps 4,5,6,7 — 8 large flour tortillas
+2: steps 1,3,5 — 2 (15 oz) cans pinto beans, rinsed and thoroughly drained
+3: steps 4,5 — 1.5 cups shredded mild cheddar
+4: steps 2,3 — 2 tbsp tomato paste
+5: steps 2 — 1/4 cup water
+6: steps 2 — 3/4 tsp ground cumin
+7: steps 2 — 1/2 tsp garlic powder
+8: steps 2 — 3/4 tsp salt
+9: steps 2 — 1 tbsp oil","Open TWO 15-oz cans pinto beans. Rinse well and drain thoroughly for at least 2 minutes; mash about half with a fork, leaving other half whole for texture. Separate 8 large flour tortillas. Measure 1.5 cups mild shredded cheddar, about 3 tbsp each. Warm tortillas briefly in dry skillet or microwave until flexible. Let bean mixture cool in shallow bowl until not steaming. Place about 1/3 cup thick beans across center of each tortilla, scatter 3 tbsp cheese, fold ends in and roll snugly.","1. [PREPARE] Open TWO 15-oz cans pinto beans. Rinse well and drain thoroughly for at least 2 minutes; mash about half with a fork, leaving other half whole for texture.
+2. [COOK] Heat 1 tbsp neutral oil in skillet over medium. Stir in 2 tbsp tomato paste, 1/4 cup water, 3/4 tsp cumin, 1/2 tsp garlic powder and 3/4 tsp salt; cook 1–2 minutes until smoothly blended.
+3. [COOK] Fold in drained/mixed mashed beans. Stir 4–6 minutes until uniformly hot and thick, with almost no loose liquid; remove from heat.
+4. [PREPARE] Separate 8 large flour tortillas. Measure 1.5 cups mild shredded cheddar, about 3 tbsp each. Warm tortillas briefly in dry skillet or microwave until flexible.
+5. [ASSEMBLE] Let bean mixture cool in shallow bowl until not steaming. Place about 1/3 cup thick beans across center of each tortilla, scatter 3 tbsp cheese, fold ends in and roll snugly.
+6. [FREEZE] Lay rolls seam down; individually wrap tightly in freezer paper or film, then bag airtight. Freeze in a single layer first.
+7. [SERVE] From frozen remove plastic, wrap burritos in foil and bake at 350°F 30–40 minutes or until center reaches 165°F. Unwrap and bake another 3–5 minutes for drier crust if desired.",Make sure bean mash and tortillas are not warm during packaging.,"Individually wrap snugly, place in larger freezer-grade bag and press out air.",3,Can go from freezer to oven; thaw in fridge overnight if convenient.,"350°F oven in foil 30–40 min frozen, center to 165°F.",Excess bean moisture can soak tortilla and form interior ice.,Reduce beans to paste before cooling and rolling.,https://www.budgetbytes.com/make-ahead-bean-and-cheese-burritos/
+FM25,"Ham, Egg and Cheddar Breakfast Burritos",8,assembly_then_reheat_oven,350,12–18 min thawed or 25–35 min frozen,160°F cooked egg; 165°F reheated burrito,"1. 8 large 10-inch flour tortillas
+2. 10 large eggs
+3. 1 tbsp butter
+4. 10 oz fully cooked plain ham, diced (check seasoning label)
+5. 2 cups shredded cheddar
+6. 1/4 cup milk
+7. 1/2 tsp salt","1: steps 1,5,6,7 — 8 large 10-inch flour tortillas
+2: steps 2,3,5,6 — 10 large eggs
+3: steps 3 — 1 tbsp butter
+4: steps 4,5,6 — 10 oz fully cooked plain ham, diced (check seasoning label)
+5: steps 4,5 — 2 cups shredded cheddar
+6: steps 2 — 1/4 cup milk
+7: steps 2 — 1/2 tsp salt","Separate 8 large 10-inch flour tortillas. Briefly warm each 10–15 seconds so they will fold without cracking; set on clean counter. Crack 10 eggs into large mixing bowl and whisk with 1/4 cup milk and 1/2 tsp salt until uniform with no streaks of whites. Dice 10 oz fully cooked PLAIN ham into small 1/4-inch pieces (verify its label for excluded seasonings). Measure 2 cups shredded cheddar, about 1/4 cup per burrito. Once eggs are cold, divide them, the diced ham and cheese into 8 equal portions; arrange one portion in center of each tortilla. Fold opposite sides inward, then roll snugly, seam underneath.","1. [PREPARE] Separate 8 large 10-inch flour tortillas. Briefly warm each 10–15 seconds so they will fold without cracking; set on clean counter.
+2. [PREPARE] Crack 10 eggs into large mixing bowl and whisk with 1/4 cup milk and 1/2 tsp salt until uniform with no streaks of whites.
+3. [COOK] Melt 1 tbsp butter in nonstick skillet over medium-low. Add egg mixture and stir slowly 5–8 minutes until eggs are completely set, not wet or runny (egg mixtures reach 160°F). Move eggs into shallow dish to cool promptly.
+4. [PREPARE] Dice 10 oz fully cooked PLAIN ham into small 1/4-inch pieces (verify its label for excluded seasonings). Measure 2 cups shredded cheddar, about 1/4 cup per burrito.
+5. [ASSEMBLE] Once eggs are cold, divide them, the diced ham and cheese into 8 equal portions; arrange one portion in center of each tortilla. Fold opposite sides inward, then roll snugly, seam underneath.
+6. [FREEZE] Wrap each finished burrito snugly in freezer paper/film, then pack together in freezer-weight zipper bag with excess air removed. Keep refrigerated during large batch assembly; freeze immediately.
+7. [SERVE] For a thawed burrito, remove plastic, place on pan and bake at 350°F for about 12–18 minutes to 165°F at center. From frozen wrap in foil and bake 25–35 minutes, then check 165°F before eating.",Cool cooked eggs and ham rapidly before assembly; blot any liquid off eggs.,"Individually wrap in parchment and freezer film; insert into a gallon freezer bag, expel air.",2,Best: fridge overnight; direct-from-frozen oven also works.,Thawed 350°F 12–18 min; frozen foil-wrapped 350°F 25–35 min; always 165°F center.,Egg proteins squeeze out water if overcooked; tortilla can get soggy.,"Cook eggs gently, keep fillings dry, and reheat only until hot.",https://www.budgetbytes.com/freezer-breakfast-burritos/
+FM26,Egg and Cheese English-Muffin Breakfast Sandwiches,6,oven,350,18–25 min for eggs; 12–18 min thawed reheating,160°F set egg; 165°F reheated sandwich,"1. 6 English muffins, split
+2. 6 large eggs
+3. 1/4 cup milk
+4. 1/2 tsp salt
+5. 6 slices American or mild cheddar cheese
+6. 1 tbsp butter","1: steps 4,5,6,7 — 6 English muffins, split
+2: steps 1,3,5 — 6 large eggs
+3: steps 1 — 1/4 cup milk
+4: steps 1 — 1/2 tsp salt
+5: steps 4,5 — 6 slices American or mild cheddar cheese
+6: steps 2 — 1 tbsp butter","Whisk 6 large eggs with 1/4 cup milk and 1/2 tsp salt in bowl until smooth. Melt 1 tbsp butter; use it to generously grease an approximately 8x8-inch baking dish, brushing corners so baked eggs release cleanly. Split 6 plain English muffins in half and lightly toast cut surfaces; cool them completely on rack. Unwrap or measure 6 slices American or mild cheddar cheese. Promptly chill baked egg slab in shallow container, then cut into 6 equal squares. Place one egg square and one cheese slice on the bottom half of each muffin, then add its top half.","1. [PREPARE] Whisk 6 large eggs with 1/4 cup milk and 1/2 tsp salt in bowl until smooth.
+2. [PREPARE] Melt 1 tbsp butter; use it to generously grease an approximately 8x8-inch baking dish, brushing corners so baked eggs release cleanly.
+3. [COOK] Preheat oven to 350°F. Pour egg mixture into greased dish; bake for 18–25 minutes until entire center is set and reaches 160°F (no liquid egg remains).
+4. [PREPARE] Split 6 plain English muffins in half and lightly toast cut surfaces; cool them completely on rack. Unwrap or measure 6 slices American or mild cheddar cheese.
+5. [ASSEMBLE] Promptly chill baked egg slab in shallow container, then cut into 6 equal squares. Place one egg square and one cheese slice on the bottom half of each muffin, then add its top half.
+6. [FREEZE] Wrap each assembled completely cooled sandwich snugly in freezer paper/film, then pack airtight in one labeled bag. Avoid warm steam inside wrap.
+7. [SERVE] Thaw overnight in refrigerator. Remove ALL plastic, wrap sandwich in foil, heat at 350°F about 12–18 minutes until egg center reaches 165°F. For a crisper muffin unwrap for final 2–3 minutes.",Refrigerate cooked egg slab promptly; cool toasted muffins separately so steam cannot condense inside wrap.,"Individually wrap snugly in freezer wrap, then place in freezer bag; keep muffin and egg separate in package if especially texture-sensitive.",2,Fridge overnight.,"350°F oven foil-wrapped 12–18 min to 165°F, toast muffin separately for best crispness; from frozen allow about 20–30 min.",Frozen egg and reheating steam soften bread and may make egg rubbery.,Avoid overbaking egg and toast bread separately on serving day.,https://www.budgetbytes.com/veggie-packed-freezer-ready-breakfast-sandwiches/
+FM27,Fluffy Freezer Pancakes,6,griddle,,not used; griddle 3–5 min per pancake,"Fully cooked, no wet/raw batter; egg batter should be cooked through","1. 2 cups all-purpose flour
+2. 2 tbsp sugar
+3. 1 tbsp baking powder
+4. 1/2 tsp salt
+5. 2 large eggs
+6. 1.75 cups milk
+7. 1/4 cup melted butter
+8. 1 tsp vanilla extract","1: steps 1,3,4,5,6,7 — 2 cups all-purpose flour
+2: steps 1 — 2 tbsp sugar
+3: steps 1 — 1 tbsp baking powder
+4: steps 1 — 1/2 tsp salt
+5: steps 2,3,5 — 2 large eggs
+6: steps 2 — 1.75 cups milk
+7: steps 2 — 1/4 cup melted butter
+8: steps 2 — 1 tsp vanilla extract","In large bowl whisk 2 cups all-purpose flour, 2 tbsp sugar, 1 tbsp baking powder and 1/2 tsp salt until baking powder is evenly distributed. In another bowl beat 2 eggs with 1.75 cups milk, 1/4 cup melted (not hot) butter and 1 tsp vanilla extract until completely blended. Pour wet mixture into the dry ingredients and stir gently only until flour disappears; small lumps are fine. Let batter rest 5 minutes while heating griddle.","1. [PREPARE] In large bowl whisk 2 cups all-purpose flour, 2 tbsp sugar, 1 tbsp baking powder and 1/2 tsp salt until baking powder is evenly distributed.
+2. [PREPARE] In another bowl beat 2 eggs with 1.75 cups milk, 1/4 cup melted (not hot) butter and 1 tsp vanilla extract until completely blended.
+3. [PREPARE] Pour wet mixture into the dry ingredients and stir gently only until flour disappears; small lumps are fine. Let batter rest 5 minutes while heating griddle.
+4. [COOK] Heat a nonstick skillet or griddle to medium, approximately 350–375°F surface temperature (use pan's nonstick surface or a very light coat of cooking oil if needed).
+5. [COOK] Pour about 1/4 cup batter per pancake with room for spreading. Cook 2–3 minutes until bubbles rise and edges become matte, then flip once and cook another 1–2 minutes until both sides golden and center cooked through.
+6. [FREEZE] Cool pancakes flat on rack, refrigerate promptly after baking, then stack with parchment between pieces and seal in low-air freezer-weight bag.
+7. [SERVE] Reheat from frozen in toaster/toaster oven in short cycles until hot all the way through, or bake on pan at 350°F 8–12 minutes; serve maple syrup separately.",Cool on rack without stacking to keep condensation away.,"Parchment between pancakes; freezer zip bag with air pressed out, stack flat.",3,Reheat directly from frozen.,350°F oven 8–12 min on baking sheet or use toaster for suitably thin pancakes; until steaming hot throughout.,"Condensation makes surfaces gummy, prolonged storage dries edges.",Complete rack cooling and moisture-vapor-resistant wrapping protect quality.,https://www.budgetbytes.com/homemade-pancakes/
+FM28,Homemade Freezer Waffles,6,waffle_iron,,not used; waffle maker 3–6 min per waffle,No wet batter in middle; waffles crisp and thoroughly cooked,"1. 2 cups all-purpose flour
+2. 1 tbsp baking powder
+3. 2 tbsp granulated sugar
+4. 1/2 tsp salt
+5. 2 large eggs
+6. 1.75 cups milk
+7. 1/3 cup melted unsalted butter
+8. 1 tsp vanilla extract","1: steps 1,3,4,5,6,7 — 2 cups all-purpose flour
+2: steps 1 — 1 tbsp baking powder
+3: steps 1 — 2 tbsp granulated sugar
+4: steps 1 — 1/2 tsp salt
+5: steps 2,3,4 — 2 large eggs
+6: steps 2 — 1.75 cups milk
+7: steps 2 — 1/3 cup melted unsalted butter
+8: steps 2 — 1 tsp vanilla extract","Whisk 2 cups flour, 1 tbsp baking powder, 2 tbsp granulated sugar and 1/2 tsp salt in a dry mixing bowl. Beat 2 eggs in second bowl; mix in 1.75 cups milk, 1/3 cup melted BUT COOLED unsalted butter and 1 tsp vanilla. Gently fold the wet ingredients into dry until flour is just absorbed; do not beat into a smooth, tough paste. Preheat waffle iron completely per its instructions.","1. [PREPARE] Whisk 2 cups flour, 1 tbsp baking powder, 2 tbsp granulated sugar and 1/2 tsp salt in a dry mixing bowl.
+2. [PREPARE] Beat 2 eggs in second bowl; mix in 1.75 cups milk, 1/3 cup melted BUT COOLED unsalted butter and 1 tsp vanilla.
+3. [PREPARE] Gently fold the wet ingredients into dry until flour is just absorbed; do not beat into a smooth, tough paste. Preheat waffle iron completely per its instructions.
+4. [COOK] Pour batter into middle of hot waffle plates—usually 1/2 to 3/4 cup per standard waffle, depending on maker; close lid without overfilling.
+5. [COOK] Cook approximately 3–6 minutes without lifting prematurely, until steam slows and waffle is evenly deep-golden and releases easily.
+6. [FREEZE] Place finished waffles separately on wire rack until steam stops; refrigerate promptly, then freeze flat with parchment separators and store airtight in low-air bag.
+7. [SERVE] Reheat frozen waffles in toaster/toaster oven until golden and steaming hot; keep syrup and fruit toppings fresh and separate.",Cool all waffles fully on wire rack.,"Layer parchment between waffles, double wrap freezer-grade bag with air removed.",3,From frozen to toaster or oven.,350°F oven on rack 7–12 min from frozen until hot/crisp; a toaster is excellent for thinner waffles.,Softening from trapped steam and moisture uptake.,"Cool uncovered, then toaster reheat to drive off moisture.",https://www.spendwithpennies.com/fluffy-homemade-waffle-recipe/
+FM29,Cinnamon French Toast Sticks,4,stovetop,,not used; skillet 4–6 min per batch,Custard fully set; no raw egg in center,"1. 8 thick slices plain sandwich bread or Texas toast
+2. 3 large eggs
+3. 3/4 cup whole milk
+4. 1 tbsp granulated sugar
+5. 1 tsp vanilla extract
+6. 1 tsp ground cinnamon
+7. 2 tbsp butter","1: steps 1,3,5,6,7 — 8 thick slices plain sandwich bread or Texas toast
+2: steps 2,3 — 3 large eggs
+3: steps 2 — 3/4 cup whole milk
+4: steps 2 — 1 tbsp granulated sugar
+5: steps 2 — 1 tsp vanilla extract
+6: steps 2 — 1 tsp ground cinnamon
+7: steps 4 — 2 tbsp butter","Cut 8 thick bread slices into 3 equal sticks each (24 total); dry them uncovered 10–15 minutes so they absorb custard without falling apart. In a wide shallow dish whisk 3 eggs, 3/4 cup milk, 1 tbsp sugar, 1 tsp vanilla extract and 1 tsp cinnamon until no egg-white streaks remain. Dip bread sticks into egg-milk mix in small batches for about 2–3 seconds per side. Let excess drip off; do not soak until mushy.","1. [PREPARE] Cut 8 thick bread slices into 3 equal sticks each (24 total); dry them uncovered 10–15 minutes so they absorb custard without falling apart.
+2. [PREPARE] In a wide shallow dish whisk 3 eggs, 3/4 cup milk, 1 tbsp sugar, 1 tsp vanilla extract and 1 tsp cinnamon until no egg-white streaks remain.
+3. [PREPARE] Dip bread sticks into egg-milk mix in small batches for about 2–3 seconds per side. Let excess drip off; do not soak until mushy.
+4. [COOK] Heat a nonstick skillet over medium and melt about 1 tsp from the total 2 tbsp butter for each batch; do not let butter burn.
+5. [COOK] Lay coated sticks in skillet without crowding, cook 2–3 minutes per side (turn to brown multiple faces if thick) until golden and egg custard completely set, about 160°F in thickest center.
+6. [FREEZE] Cool on wire rack until steam stops; chill promptly, tray-freeze separated sticks, then transfer to tightly sealed freezer bag.
+7. [SERVE] Reheat sticks from frozen on rack in a 375°F oven about 10–15 minutes, turning halfway, until hot in centers; keep syrup separate.",Cool on racks; tray-freeze until firm to keep pieces apart.,Freezer zip bag with parchment between layers and minimal air.,1,Reheat directly from frozen for best crust.,"375°F oven on rack 8–12 min from frozen, or toaster oven until fully hot and crisp.",Bread absorbs water and becomes soft if soaked too long.,"Thick, slightly stale bread and quick dipping preserve structure.",https://www.spendwithpennies.com/french-toast-sticks/
+FM30,Mini Cheese Pizza Rolls,6,oven,400,14–18 min,"Dough baked through, no raw center; any leftovers should reach 165°F on reheating","1. 1 lb refrigerated plain pizza dough
+2. 3/4 cup plain canned crushed tomatoes
+3. 1 tsp olive oil
+4. 1/2 tsp dried oregano
+5. 1/2 tsp dried basil
+6. 1/4 tsp garlic powder
+7. 1.5 cups shredded low-moisture mozzarella
+8. 1 tbsp all-purpose flour for rolling","1: steps 2,4,5,6,7 — 1 lb refrigerated plain pizza dough
+2: steps 1,3 — 3/4 cup plain canned crushed tomatoes
+3: steps 1 — 1 tsp olive oil
+4: steps 1 — 1/2 tsp dried oregano
+5: steps 1 — 1/2 tsp dried basil
+6: steps 1 — 1/4 tsp garlic powder
+7: steps 3,4 — 1.5 cups shredded low-moisture mozzarella
+8: steps 2 — 1 tbsp all-purpose flour for rolling","Combine 3/4 cup plain crushed tomatoes with 1 tsp olive oil, 1/2 tsp oregano, 1/2 tsp basil and 1/4 tsp garlic powder in a SMALL skillet. Simmer on medium-low 5–8 minutes until it makes a spreadable, not runny pizza sauce; cool before spreading. Sprinkle 1 tbsp flour lightly over countertop and rolling pin. Roll 1 lb refrigerated plain pizza dough into about 12x14-inch rectangle; avoid tearing thin spots. Spread all cooled, thickened tomato sauce over dough, leaving 1-inch uncoated border on one long edge. Sprinkle 1.5 cups low-moisture mozzarella evenly, pressing cheese lightly into sauce. Roll up firmly from opposite long edge into a 14-inch log; pinch uncoated edge to seal and chill 10 minutes for neater slicing. Cut into 12 evenly sized rolls with serrated knife.","1. [PREPARE] Combine 3/4 cup plain crushed tomatoes with 1 tsp olive oil, 1/2 tsp oregano, 1/2 tsp basil and 1/4 tsp garlic powder in a SMALL skillet. Simmer on medium-low 5–8 minutes until it makes a spreadable, not runny pizza sauce; cool before spreading.
+2. [PREPARE] Sprinkle 1 tbsp flour lightly over countertop and rolling pin. Roll 1 lb refrigerated plain pizza dough into about 12x14-inch rectangle; avoid tearing thin spots.
+3. [ASSEMBLE] Spread all cooled, thickened tomato sauce over dough, leaving 1-inch uncoated border on one long edge. Sprinkle 1.5 cups low-moisture mozzarella evenly, pressing cheese lightly into sauce.
+4. [ASSEMBLE] Roll up firmly from opposite long edge into a 14-inch log; pinch uncoated edge to seal and chill 10 minutes for neater slicing. Cut into 12 evenly sized rolls with serrated knife.
+5. [COOK] Preheat oven to 400°F, arrange rolls cut-side UP with 1 inch spacing on parchment-lined rimmed sheet pan. Bake 14–18 minutes until dough at center of each roll is fully baked, not wet or gummy, and top edges are golden.
+6. [FREEZE] Cool rolls on a rack, chill promptly, tray-freeze separately until firm, then place in freezer bag with little air. Keep sauce/filling inside rolls but avoid adding extra wet toppings.
+7. [SERVE] Reheat from frozen on sheet pan at 375°F 10–15 minutes until hot to center and cheese is melted; check 165°F if reheating cooked leftover rolls.",Cool rolls completely on rack so steam cannot wet packaging; tray-freeze.,Freezer bag with extra wrap around portions and air squeezed out.,2,Reheat from frozen; no thaw needed.,375°F oven from frozen 12–16 min or until crust crisp and filling reaches 165°F.,High-water sauce can soak dough and turn it gummy.,"Reduce tomato moisture, keep a thin sauce layer and use low-moisture mozzarella.",https://www.spendwithpennies.com/pizza-rolls/
+FM31,Rich Cream-Cheese Mashed Potatoes,6,stovetop_then_optional_oven,350,"optional baking 20–25 min fresh, 25–35 min after thaw",165°F reheated leftover mash,"1. 3 lb Yukon Gold potatoes, peeled and cubed
+2. 6 tbsp unsalted butter
+3. 4 oz full-fat cream cheese
+4. 1/3 cup whole milk, warmed
+5. 1.25 tsp salt
+6. 1/2 tsp garlic powder","1: steps 1,2,4,6,7 — 3 lb Yukon Gold potatoes, peeled and cubed
+2: steps 3,4 — 6 tbsp unsalted butter
+3: steps 3,4 — 4 oz full-fat cream cheese
+4: steps 3 — 1/3 cup whole milk, warmed
+5: steps 5 — 1.25 tsp salt
+6: steps 5 — 1/2 tsp garlic powder","Peel 3 lb Yukon Gold potatoes, cut into uniform 1-inch cubes and rinse off excess surface starch under cool water. Put into large pot and cover with cool water by about 1 inch. Cube 6 tbsp unsalted butter and 4 oz full-fat cream cheese. Warm 1/3 cup whole milk in small saucepan or microwave until just warm (not boiling).","1. [PREPARE] Peel 3 lb Yukon Gold potatoes, cut into uniform 1-inch cubes and rinse off excess surface starch under cool water. Put into large pot and cover with cool water by about 1 inch.
+2. [COOK] Bring potatoes to a boil, reduce to steady simmer and cook about 15–20 minutes until a fork goes through each cube easily. Drain completely, return to warm empty pot for 1–2 minutes so excess surface water steams away.
+3. [PREPARE] Cube 6 tbsp unsalted butter and 4 oz full-fat cream cheese. Warm 1/3 cup whole milk in small saucepan or microwave until just warm (not boiling).
+4. [COOK] Mash drained HOT potatoes with 6 tbsp butter and all 4 oz cream cheese until smooth; add warm milk in 2–3 splashes, stirring each time only until absorbed.
+5. [COOK] Stir in 1.25 tsp salt and 1/2 tsp garlic powder uniformly. Do not use a blender or food processor; overworking makes potatoes gluey. Taste and adjust ONLY after initial seasoning is mixed.
+6. [FREEZE] Spread mashed potatoes into shallow freezer containers, chill promptly and seal close to surface to minimize trapped air; choose small portions. Dairy-rich mash freezes better than boiled potato chunks, though some separation is possible.
+7. [SERVE] Thaw in refrigerator. Spread in butter-safe covered casserole (no plastic) and bake at 350°F about 25–35 minutes, stirring once halfway until center reaches 165°F; if slightly dry stir in small extra splash milk (not included in initial ingredient quantities).",Quick-chill mash in shallow dishes; freeze as flat 1–2 cup portions.,"Freezer-tight 2-cup containers or heavy freezer-grade bags, expel air.",2,Fridge overnight; smaller portions can reheat from frozen slowly.,"Covered at 350°F 25–35 min after thaw to 165°F, stir and add 1 tbsp warm milk if needed.","Potato starch can turn grainy, watery or mealy.",Fat from butter and cream cheese helps maintain texture; avoid watery overboiled potatoes.,https://www.spendwithpennies.com/cream-cheese-mashed-potatoes/
+FM32,Cheesy Ricotta Stuffed Shells,6,oven,375,40–45 min after full refrigerator thaw,165°F at center due to raw egg in filling,"1. 20–24 jumbo pasta shells (about 8 oz dry)
+2. 15 oz whole-milk ricotta
+3. 1 large egg
+4. 1 cup shredded low-moisture mozzarella plus 1/2 cup for topping
+5. 1/3 cup grated Parmesan
+6. 1 tsp dried basil
+7. 1/2 tsp salt
+8. 1 (28 oz) can plain crushed tomatoes
+9. 1 tsp dried oregano
+10. 1/2 tsp garlic powder","1: steps 1,4,5,6 — 20–24 jumbo pasta shells (about 8 oz dry)
+2: steps 3,4,5 — 15 oz whole-milk ricotta
+3: steps 3 — 1 large egg
+4: steps 3,6 — 1 cup shredded low-moisture mozzarella plus 1/2 cup for topping
+5: steps 3 — 1/3 cup grated Parmesan
+6: steps 3 — 1 tsp dried basil
+7: steps 3 — 1/2 tsp salt
+8: steps 2,4,5 — 1 (28 oz) can plain crushed tomatoes
+9: steps 2 — 1 tsp dried oregano
+10: steps 2 — 1/2 tsp garlic powder","Boil 20–24 jumbo pasta shells in water for 2 minutes LESS than package's al-dente time, stirring so shells separate. Drain and cool on a lightly oiled clean tray, open side up, so they hold shape. Combine 1 (28 oz) can plain crushed tomatoes, 1 tsp dried oregano and 1/2 tsp garlic powder in saucepan. Simmer uncovered 8–12 minutes until thick enough to coat a spoon; cool promptly for freezer assembly. Mix 15 oz whole-milk ricotta, 1 raw egg, 1 cup of the shredded low-moisture mozzarella, 1/3 cup Parmesan, 1 tsp dried basil and 1/2 tsp salt until evenly combined. Reserve extra 1/2 cup mozzarella for a TOPPING on baking day. Spread HALF cooled tomato sauce in greased 9x13-inch metal/foil pan. Spoon approximately 1.5 tbsp ricotta filling into each cooled pasta shell, line shells snugly in pan, then spoon remaining sauce over tops.","1. [PREPARE] Boil 20–24 jumbo pasta shells in water for 2 minutes LESS than package's al-dente time, stirring so shells separate. Drain and cool on a lightly oiled clean tray, open side up, so they hold shape.
+2. [PREPARE] Combine 1 (28 oz) can plain crushed tomatoes, 1 tsp dried oregano and 1/2 tsp garlic powder in saucepan. Simmer uncovered 8–12 minutes until thick enough to coat a spoon; cool promptly for freezer assembly.
+3. [PREPARE] Mix 15 oz whole-milk ricotta, 1 raw egg, 1 cup of the shredded low-moisture mozzarella, 1/3 cup Parmesan, 1 tsp dried basil and 1/2 tsp salt until evenly combined. Reserve extra 1/2 cup mozzarella for a TOPPING on baking day.
+4. [ASSEMBLE] Spread HALF cooled tomato sauce in greased 9x13-inch metal/foil pan. Spoon approximately 1.5 tbsp ricotta filling into each cooled pasta shell, line shells snugly in pan, then spoon remaining sauce over tops.
+5. [FREEZE] Cover the cold unbaked pan snugly in freezer-safe wrap plus foil; freeze promptly. Keep reserved 1/2 cup mozzarella sealed separately, and label that the filling contains uncooked egg.
+6. [SERVE] Thaw completely in refrigerator 24–36 hours. Remove ALL plastic; heat oven to 375°F, cover pan with foil, bake 30 minutes. Uncover and distribute reserved 1/2 cup mozzarella across top, then bake another 10–15 minutes until center filling reaches 165°F. Rest 10 minutes.",Ensure sauce and shells fully chilled; immediately freeze assembled covered dish.,Small foil pan with plastic film followed by foil; remove plastic before heating.,1,Refrigerator 18–24 hr; verify center thawed before baking.,375°F covered 30 min then uncovered 10–15 min to 165°F; rest 10 min.,Ricotta whey can separate and overcooked shells get too soft.,"Thicken sauce, slightly undercook shells and freeze unbaked; sprinkle cheese after initial baking.",https://www.spendwithpennies.com/classic-stuffed-shells-recipe/
