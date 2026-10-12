@@ -44,6 +44,10 @@ npx wrangler pages deploy dist --project-name freezer-meal-library
 
 All behavior—including search, filters, dialogs, and favorites—runs in the visitor's browser. Recipe data is bundled locally in `public/data/recipes.json`; no recipe API is called at runtime.
 
+## Openverse photos
+
+The photo gallery and recipe cards request openly licensed food photos directly from the Openverse API in the visitor's browser. Each visible image links to its Openverse record and displays the credited creator and license. If Openverse is unavailable, the recipe library remains fully usable without photos.
+
 ## Data
 
 Recipe data is stored in `dist/data/recipes.json`. Its source was supplied with this project. Food safety guidance and source links are displayed in the app for reference; always follow current official guidance and package directions.
