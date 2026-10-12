@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#143d34" />
+    <meta name="description" content="A practical freezer meal library with cooking and storage guidance." />
+    <title>Freezer Meal Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#recipes">Skip to recipes</a>
+    <header class="hero">
+      <div class="hero-inner shell">
+        <div class="brand"><span class="brand-mark" aria-hidden="true">✦</span><span>Freezer Meal Library</span></div>
+        <p class="eyebrow">COOK ONCE · EAT WELL LATER</p>
+        <h1>Your freezer,<br /><em>with a plan.</em></h1>
+        <p class="hero-copy">A practical collection of make-ahead meals, with the cooking, packing, thawing, and reheating notes you actually need.</p>
+        <div class="hero-stats" aria-label="Recipe library summary">
+          <div><strong id="recipe-count">32</strong><span>recipes</span></div>
+          <div><strong id="category-count">8</strong><span>meal types</span></div>
+          <div><strong>4</strong><span>portions each</span></div>
+        </div>
+      </div>
+      <div class="sun" aria-hidden="true"></div>
+      <div class="grain" aria-hidden="true"></div>
+    </header>
+
+    <main>
+      <section class="guidance shell" aria-labelledby="guidance-title">
+        <div>
+          <p class="eyebrow warm">START HERE</p>
+          <h2 id="guidance-title">Freeze smart.</h2>
+        </div>
+        <div class="guidance-grid" id="guidance-grid"></div>
+      </section>
+
+      <section class="library shell" id="recipes" aria-labelledby="library-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow warm">THE COLLECTION</p>
+            <h2 id="library-title">Find dinner’s future self.</h2>
+          </div>
+          <p class="result-count" id="result-count" aria-live="polite"></p>
+        </div>
+
+        <div class="controls" aria-label="Recipe filters">
+          <label class="search-field">
+            <span class="sr-only">Search recipes</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m20 20-4.4-4.4m2.4-5.1a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z" /></svg>
+            <input id="search" type="search" placeholder="Search meals or ingredients" autocomplete="off" />
+          </label>
+          <label class="select-field"><span>Type</span><select id="category"><option value="all">All meal types</option></select></label>
+          <label class="select-field"><span>Quality</span><select id="quality"><option value="all">Any freezer score</option><option value="5">Excellent (5)</option><option value="4">Great (4+)</option><option value="3">Good (3+)</option></select></label>
+          <label class="select-field"><span>Sort</span><select id="sort"><option value="name">Name, A–Z</option><option value="storage">Longest storage</option><option value="time">Quickest to cook</option><option value="score">Highest score</option></select></label>
+          <button class="favorites-toggle" id="favorites-toggle" type="button" aria-pressed="false"><span aria-hidden="true">♡</span> Favorites</button>
+        </div>
+
+        <div class="active-filters" id="active-filters"></div>
+        <div class="recipe-grid" id="recipe-grid"></div>
+        <div class="empty-state" id="empty-state" hidden><span>⌕</span><h3>No meals found</h3><p>Try clearing a filter or searching a different ingredient.</p><button id="clear-filters" type="button">Clear filters</button></div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="shell footer-inner">
+        <div><div class="brand"><span class="brand-mark" aria-hidden="true">✦</span><span>Freezer Meal Library</span></div><p>Made for calmer weeknights.</p></div>
+        <button class="source-button" id="source-button" type="button">Food safety sources <span>↗</span></button>
+      </div>
+    </footer>
+
+    <dialog id="recipe-dialog" class="recipe-dialog"><button class="dialog-close" type="button" aria-label="Close recipe details">×</button><div id="dialog-content"></div></dialog>
+    <dialog id="source-dialog" class="source-dialog"><button class="dialog-close" type="button" aria-label="Close sources">×</button><div id="source-content"></div></dialog>
+    <template id="recipe-template">
+      <article class="recipe-card">
+        <div class="card-top"><span class="category-pill"></span><button class="heart" type="button" aria-label="Save to favorites">♡</button></div>
+        <h3></h3>
+        <p class="ingredient-preview"></p>
+        <div class="card-meta"><span class="time-meta"></span><span class="storage-meta"></span></div>
+        <div class="score-row"><span class="score-label">Freezer score</span><span class="stars" aria-label="Freezer quality score"></span></div>
+        <button class="details-button" type="button">View full plan <span>→</span></button>
+      </article>
+    </template>
+    <script src="app.js"></script>
+  </body>
+</html>
