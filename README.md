@@ -46,7 +46,7 @@ All behavior—including search, filters, dialogs, and favorites—runs in the v
 
 ## Openverse photos
 
-The photo gallery and recipe cards request openly licensed food photos directly from the Openverse API in the visitor's browser. Each visible image links to its Openverse record and displays the credited creator and license. If Openverse is unavailable, the recipe library remains fully usable without photos.
+The hero image requests one openly licensed food photo directly from the Openverse API in the visitor's browser. If Openverse is unavailable, the recipe library remains fully usable with its original color treatment.
 
 ## Data
 
