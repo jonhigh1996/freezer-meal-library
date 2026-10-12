@@ -1,6 +1,6 @@
 # Freezer Meal Library
 
-A no-build static web app for browsing 32 freezer-friendly recipes, cooking directions, and storage guidance. It is designed for Cloudflare Pages: there is no server, database, API key, or build process.
+A React + Vite web app for browsing 32 freezer-friendly recipes, cooking directions, and storage guidance. It is designed for Cloudflare Pages: there is no server, database, or API key.
 
 ## Features
 
@@ -13,10 +13,11 @@ A no-build static web app for browsing 32 freezer-friendly recipes, cooking dire
 
 ## Run locally
 
-Open `dist/index.html` in a modern browser. For reliable data loading, serve the `dist` directory with any static-file server, for example:
+Install dependencies and start the local Vite development server:
 
 ```powershell
-npx serve dist
+npm install
+npm run dev
 ```
 
 ## Deploy to Cloudflare Pages
@@ -27,7 +28,7 @@ npx serve dist
 2. In Cloudflare, open **Workers & Pages → Create application → Pages → Connect to Git** and select the repository.
 3. Use these build settings:
    - Framework preset: **None**
-   - Build command: leave blank
+   - Build command: `npm run build`
    - Build output directory: `dist`
 4. Deploy. Future pushes automatically publish the static app.
 
@@ -41,7 +42,7 @@ npx wrangler pages deploy dist --project-name freezer-meal-library
 
 `wrangler.toml` records the same output directory for local tooling. The Cloudflare `_headers` file applies basic static-site security headers and a short cache rule for recipe data.
 
-The app has no build step or runtime dependencies. All behavior—including search, filters, dialogs, and favorites—runs in the visitor's browser.
+All behavior—including search, filters, dialogs, and favorites—runs in the visitor's browser. Recipe data is bundled locally in `public/data/recipes.json`; no recipe API is called at runtime.
 
 ## Data
 
